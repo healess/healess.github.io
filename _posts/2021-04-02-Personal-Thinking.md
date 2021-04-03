@@ -1,8 +1,8 @@
 ---
-title: "Seminar: AI"
+title: "Personal Thinking"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - leadership
 tags:
   - Post Formats
   - readability

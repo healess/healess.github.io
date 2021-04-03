@@ -58,7 +58,7 @@ feed:
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
+category_archive_path: "/categories/#"
 # tag_archive_path: "/tags/#"
 
 # Exclude from processing.

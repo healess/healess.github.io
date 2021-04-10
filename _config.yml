@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "healess tech site"
 description: "AI Research & Engineering"
-baseurl: "" ## the subpath of your site, e.g. "/blog"
+baseurl: "/" ## the subpath of your site, e.g. "/blog"
 url: https://healess.github.io
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -51,8 +51,8 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
 search_full_content: false # can have performance implications for large sites

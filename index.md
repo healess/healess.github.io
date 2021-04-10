@@ -10,9 +10,9 @@ entries_layout: grid
 ## AI Research Engineer(Leader) at POSCO ICT
 
 ## Work Experience
-* LG CNS (2005.01~02) 
-* Pivotal Labs (2016.03~2016.05)
-* POSCO ICT (2006.01.02~)
+* LG CNS - Infra Management (2005.01~02)
+* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05)
+* POSCO ICT - AI Research Engineer, POSCO MES (2006.01.02~)
 
 ## Research Experience
 * Predicting Early-Stage Dementia Through Language Model (KAIST)
@@ -26,7 +26,8 @@ entries_layout: grid
 
 ## Projects
 * Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression)
-* KISA (안면인식, 지능형CCTV 인증획득)
+* KISA-Certification (Face Recognition 2018, Intelligence CCTV 2021)
+* POSCO AI ChatBot (2017)
 
 
 ## Lecture
@@ -56,7 +57,7 @@ entries_layout: grid
 * Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API)
 
 ## Slides
-#### AI Paper Review
+#### Paper Review
 * [DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
 ](https://www.slideshare.net/healess/paper-detectors-for-object-detection)
 * [Long-Term Feature Banks for Detailed Video Understanding](https://www.slideshare.net/healess/long-term-feature-banks-for-detailed-video-understanding-action-recognition)

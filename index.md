@@ -33,20 +33,21 @@ entries_layout: grid
 
 ## Lecture
 | Title | URL |
-| ------ | ------ |
-|  모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/) |
+| ------------ | ------------ |
+| 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/) |
 | 텐서플로우로 시작하는 딥러닝 기초 [네이버 커넥트재단] | [링크](https://www.edwith.org/boostcourse-dl-tensorflow) |
-|Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 SK Planet (2017.8)  |[링크](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)|
-|POSCO ICT 2020 AI Challenge (Mentor)|[링크](https://aichallenge.poscoict.com/)|
+| Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 SK Planet (2017.8) | [링크](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
+| POSCO ICT 2020 AI Challenge (Mentor)|[링크](https://aichallenge.poscoict.com/) |
 
 
 ## Talks
 | Title | URL |
-| ------ | ------ |
-| [IXOTIVE 웨비나] 딥러닝을 활용한 AI 영상분석의 진화 |[링크](https://youtu.be/oe937gzXn44)|
-| 딥러닝 기반 안면인식 개발과 적용방안 (2020.06.12) |[링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563)|
-| AI 도입, 목표 설정이 먼저다 (한국경제) |[링크](https://www.hankyung.com/opinion/article/2019112491371)|
-| 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) |[링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629)|
+| ------------ | ------------ |
+| [IXOTIVE 웨비나] 딥러닝을 활용한 AI 영상분석의 진화 | [링크](https://youtu.be/oe937gzXn44) |
+| 딥러닝 기반 안면인식 개발과 적용방안 (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563) |
+| AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
+| 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
+
 
 ## Software Development
 * ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011.12)
@@ -72,7 +73,7 @@ entries_layout: grid
 * Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision  
 * EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks
 * Bayesian Optimization, AMC, Auto Augmentation, Active Learning
-* eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network)
+* [eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network)](https://www.slideshare.net/healess/paper-explainable-aixai-in-computer-vision)
 * Dynamic Routing Between Capsules
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition

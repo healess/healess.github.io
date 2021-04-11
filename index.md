@@ -32,6 +32,7 @@ entries_layout: grid
 
 
 ## Lecture
+
 | Title | URL |
 | :------------ | ------------: |
 | 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/) |
@@ -41,6 +42,7 @@ entries_layout: grid
 
 
 ## Talks
+
 | Title | URL |
 | :------------ | ------------: |
 | [IXOTIVE 웨비나] 딥러닝을 활용한 AI 영상분석의 진화 | [링크](https://youtu.be/oe937gzXn44) |

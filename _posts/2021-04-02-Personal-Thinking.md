@@ -29,21 +29,10 @@ tags:
 * AI 서비스를 개발하는데 무엇보다 실세계의 데이터의 확보가 중요하고 큰 도움이 될것 
 * 직접짜지않고 기계에게 아웃소싱을 줌 ㅡ 머신러닝
 * 세상은 발견의시대→실행의시대  / 전문지식의 시대 → 데이터의 시대
-
-# Troble Shooting
-* Python Personal Lib reference prior to installed (ex.helper error)
-* Python 속도 Cython은 암호화 (PyPy > Ctypes > Cython) [참고 site](http://mcchae.egloos.com/11152022)
+* 시행착오를 통한 축적의시간-오랜 기간의 시행착오를 전제로 도전과 실패를 거듭하면서 축적하지 않고서는 얻을 수 없는 창조적 역량이다. 이에 ‘축적’이라는 키워드를 가장 중요한 개념으로 제시하고, 이러한 공통 키워드 추출의 결과를 중심으로 우리 사회 전체가 얻을 수 있는 유용한 통찰을 정리하였다
+* 전문성으로 숨어 게으름을 피움(로또지수, 버스지수 팀원떠날때 팀의 영향도 측정)
 
 # Entrepreneurial Spirit (entrepreneurship)
 * That's where the entrepreneurialism is happening.
-*
-# AI Tips
-* 3e-4 is the best learning rate for Adam (Andrej Karpathy)
 
-# To-Do for AI
-* MRC / Gesture Recognition / MicroData Standard
 
-### Markdown Editor
-| Title | URL |
-| ------ | ------ |
-| Dillinger | https://dillinger.io |

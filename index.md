@@ -26,7 +26,7 @@ entries_layout: grid
 * 2018년 올해의 포스코ICT人 
 
 ## Projects
-* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression)
+* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML)
 * KISA-Certification (Face Recognition 2018, Intelligence CCTV 2021)
 * POSCO AI ChatBot (2017)
 
@@ -37,7 +37,7 @@ entries_layout: grid
 | :------------ | ------------: |
 | 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/) |
 | 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.edwith.org/boostcourse-dl-tensorflow) |
-| Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 SK Planet (2017.8) | [링크](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
+| Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.8) | [링크](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
 | POSCO ICT 2020 AI Challenge (Mentor)|[링크](https://aichallenge.poscoict.com/) |
 
 
@@ -56,7 +56,8 @@ entries_layout: grid
 * 성장진단 iPhone App (국내 앱스토어 100위) (2011.11)
 
 ## Patents
-* 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 {METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON} KAIST(윤태성, 김용찬, 김수상)
+* 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 {METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON} (KAIST)
+* 딥러닝 기반의 얼굴이미지 추출장치(Apparatus for Extracting Face Image Based on Deep Learning) (POSCO ICT)
 
 ## Book
 * 한국산업의 혁신전략 (안면인식 기술로 살펴본 AI 경쟁력 확보 방안) - 율곡출판사
@@ -74,7 +75,7 @@ entries_layout: grid
 * [Learning Video Representations from Correspondence Proposals](https://www.slideshare.net/healess/paper-learning-video-representations-from-correspondence-proposals)
 * Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision  
 * EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks
-* Bayesian Optimization, AMC, Auto Augmentation, Active Learning
+* [AutoML Part 1 : Bayesian Optimization, AMC, Auto Augmentation, Active Learning](https://www.slideshare.net/healess/paper-auto-ml-part-1)
 * [eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network)](https://www.slideshare.net/healess/paper-explainable-aixai-in-computer-vision)
 * Dynamic Routing Between Capsules
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices

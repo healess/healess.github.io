@@ -74,7 +74,7 @@ entries_layout: grid
 * [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://www.slideshare.net/healess/i3d-and-kinetics-datasets-action-recognition)
 * [Learning Video Representations from Correspondence Proposals](https://www.slideshare.net/healess/paper-learning-video-representations-from-correspondence-proposals)
 * Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision  
-* EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks
+* [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.slideshare.net/healess/paper-eda-easy-data-augmentation-techniques-for-boosting-performance-on-text-classification-tasks)
 * [AutoML Part 1 : Bayesian Optimization, AMC, Auto Augmentation, Active Learning](https://www.slideshare.net/healess/paper-auto-ml-part-1)
 * [eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network)](https://www.slideshare.net/healess/paper-explainable-aixai-in-computer-vision)
 * Dynamic Routing Between Capsules

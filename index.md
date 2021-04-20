@@ -8,7 +8,7 @@ entries_layout: grid
 ---
 <!-- # My Profile -->
 
-## AI Research Engineer(Leader) at POSCO ICT
+## AI Research Engineer at POSCO ICT
 
 ## Work Experience
 * LG CNS - Infra Management (2005.01~02)
@@ -23,7 +23,7 @@ entries_layout: grid
 * 제11회 공개SW개발자 대회 금상 (과학기술정보통신부 주최) (2017.12) [링크](https://www.oss.kr/dev_competition_activities/show/a0f60bdb-d64d-4bd7-8c6b-8a9df7d2647f) 
 * 2019 T아카데미 AWARD 딥러닝 부분 Top 11 [링크](https://tacademy.skplanet.com/front/customer/viewNotice.action?seq=735&topYn=N) 
 * Highest Honor(Spring semester of 2019) / High Honor(2020) (KAIST)
-* 2018년 올해의 포스코ICT人 
+* 2018년 올해의 포스코ICT人 [링크](https://smartfuture-poscoict.co.kr/428)
 
 ## Projects
 * Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML)
@@ -39,7 +39,7 @@ entries_layout: grid
 | 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.edwith.org/boostcourse-dl-tensorflow) |
 | Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.8) | [링크](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
 | POSCO ICT 2020 AI Challenge (Mentor)|[링크](https://aichallenge.poscoict.com/) |
-
+|고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505)|
 
 ## Talks
 

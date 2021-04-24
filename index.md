@@ -38,7 +38,7 @@ entries_layout: grid
 | 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/) |
 | 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.edwith.org/boostcourse-dl-tensorflow) |
 | Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.8) | [링크](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
-| POSCO ICT 2020 AI Challenge (Mentor)|[링크](https://aichallenge.poscoict.com/) |
+| POSCO ICT AI Challenge 2020/2021 (Mentor)|[링크](https://aichallenge.poscoict.com/) |
 |고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505)|
 
 ## Talks
@@ -46,14 +46,15 @@ entries_layout: grid
 | Title | URL |
 | :------------ | ------------: |
 | [IXOTIVE 웨비나] 딥러닝을 활용한 AI 영상분석의 진화 | [링크](https://youtu.be/oe937gzXn44) |
-| 딥러닝 기반 안면인식 개발과 적용방안 (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563) |
+| 딥러닝 기반 안면인식 개발과 적용방안 (한국미래기술교육연구원) (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563) |
 | AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
 | 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
 
 
 ## Software Development
-* ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011.12)
-* 성장진단 iPhone App (국내 앱스토어 100위) (2011.11)
+* Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)
+* 성장진단 iPhone App (국내 앱스토어 100위) (2012)
+* ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011)
 
 ## Patents
 * 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 {METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON} (KAIST)
@@ -78,7 +79,7 @@ entries_layout: grid
 * [AutoML Part 1 : Bayesian Optimization, AMC, Auto Augmentation, Active Learning](https://www.slideshare.net/healess/paper-auto-ml-part-1)
 * [eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network)](https://www.slideshare.net/healess/paper-explainable-aixai-in-computer-vision)
 * Dynamic Routing Between Capsules
-* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+* [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://www.slideshare.net/healess/paper-shuffle-net-an-extremely-efficient-convolutional-neural-network-for-mobile-devices)
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 * Memory Networks, End-To-End Memory Networks, Dynamic Memory Networks 
 * Effective Approaches to Attention-based Neural Machine Translation

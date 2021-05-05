@@ -8,12 +8,12 @@ entries_layout: grid
 ---
 <!-- # My Profile -->
 
-## AI Research Engineer at POSCO ICT
+## AI Research Engineer
 
 ## Work Experience
 * LG CNS - Infra Management (2005.01~02)
 * Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05)
-* POSCO ICT - AI Research Engineer, POSCO MES (2006.01.02~)
+* POSCO ICT - AI Research Engineer, POSCO MES(PM, Developer) (2006.01.02~)
 
 ## Research Experience
 * Predicting Early-Stage Dementia Through Language Model (KAIST)
@@ -26,9 +26,9 @@ entries_layout: grid
 * 2018년 올해의 포스코ICT人 [링크](https://smartfuture-poscoict.co.kr/428)
 
 ## Projects
-* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML)
-* KISA-Certification (Face Recognition 2018, Intelligence CCTV 2021)
-* POSCO AI ChatBot (2017)
+* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML) (2017~)
+* POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2015~2017)
+* KISA Certification (Face Recognition 2018, Intelligence CCTV 2021)
 
 
 ## Lecture
@@ -53,7 +53,7 @@ entries_layout: grid
 
 ## Software Development
 * Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)
-* 성장진단 iPhone App (국내 앱스토어 100위) (2012)
+* 성장진단 iPhone App (국내 앱스토어 Top 100) (2012)
 * ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011)
 
 ## Patents
@@ -64,7 +64,7 @@ entries_layout: grid
 * 한국산업의 혁신전략 (안면인식 기술로 살펴본 AI 경쟁력 확보 방안) - 율곡출판사
 
 ## Skills
-* Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API)
+* Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API), Docker
 
 ## Slides
 #### Paper Review

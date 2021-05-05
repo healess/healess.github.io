@@ -1,5 +1,5 @@
 ---
-title: My Profile
+title: AI Research Engineer
 layout: home
 limit: 5
 paginate: true
@@ -7,8 +7,6 @@ show_excerpts: false
 entries_layout: grid
 ---
 <!-- # My Profile -->
-
-## AI Research Engineer
 
 ## Work Experience
 * LG CNS - Infra Management (2005.01~02)
@@ -45,10 +43,11 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
-| [IXOTIVE 웨비나] 딥러닝을 활용한 AI 영상분석의 진화 | [링크](https://youtu.be/oe937gzXn44) |
+| [웨비나] 딥러닝을 활용한 AI 영상분석의 진화 | [링크](https://youtu.be/oe937gzXn44) |
 | 딥러닝 기반 안면인식 개발과 적용방안 (한국미래기술교육연구원) (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563) |
 | AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
 | 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
+|성남시 청년 AI 프리인턴십 강의 |[링크](http://www.m-i.kr/news/articleView.html?idxno=824891)
 
 
 ## Software Development
@@ -64,7 +63,7 @@ entries_layout: grid
 * 한국산업의 혁신전략 (안면인식 기술로 살펴본 AI 경쟁력 확보 방안) - 율곡출판사
 
 ## Skills
-* Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API), Docker
+* Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API), Docker, ML Ops
 
 ## Slides
 #### Paper Review

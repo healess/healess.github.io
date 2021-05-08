@@ -83,8 +83,6 @@ entries_layout: grid
 * Memory Networks, End-To-End Memory Networks, Dynamic Memory Networks 
 * Effective Approaches to Attention-based Neural Machine Translation
 
-
-
-
-
+### Back To The Basics
+![Books](https://healess.github.io/assets/image/ai_books.jpg)
 

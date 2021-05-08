@@ -56,7 +56,7 @@ entries_layout: grid
 * ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011)
 
 ## Patents
-* 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 {METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON} (KAIST)
+* 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 (METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON) (KAIST)
 * 딥러닝 기반의 얼굴이미지 추출장치(Apparatus for Extracting Face Image Based on Deep Learning) (POSCO ICT)
 
 ## Book
@@ -81,8 +81,8 @@ entries_layout: grid
 * [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://www.slideshare.net/healess/paper-shuffle-net-an-extremely-efficient-convolutional-neural-network-for-mobile-devices)
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 * Memory Networks, End-To-End Memory Networks, Dynamic Memory Networks 
-* Effective Approaches to Attention-based Neural Machine Translation
-
-### Back To The Basics
+* [Effective Approaches to Attention-based Neural Machine Translation](https://www.slideshare.net/healess/paper-attention-mechanismluong)
+  
+#### Back To The Basics
 ![Books](https://healess.github.io/assets/image/ai_books.jpg)
 

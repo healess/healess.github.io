@@ -71,17 +71,18 @@ entries_layout: grid
 ](https://www.slideshare.net/healess/paper-detectors-for-object-detection)
 * [Long-Term Feature Banks for Detailed Video Understanding](https://www.slideshare.net/healess/long-term-feature-banks-for-detailed-video-understanding-action-recognition)
 * [GroupFace: Learning Latent Groups and Constructing Group-based Representations for Face Recognition](https://www.slideshare.net/healess/groupface-face-recognition)
-* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://www.slideshare.net/healess/i3d-and-kinetics-datasets-action-recognition)
 * [Learning Video Representations from Correspondence Proposals](https://www.slideshare.net/healess/paper-learning-video-representations-from-correspondence-proposals)
+* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://www.slideshare.net/healess/i3d-and-kinetics-datasets-action-recognition)
 * [Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision](https://www.slideshare.net/healess/paper-anti-spoofing-for-face-recognition)
 * [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.slideshare.net/healess/paper-eda-easy-data-augmentation-techniques-for-boosting-performance-on-text-classification-tasks)
 * [AutoML Part 1 : Bayesian Optimization, AMC, Auto Augmentation, Active Learning](https://www.slideshare.net/healess/paper-auto-ml-part-1)
 * [eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network)](https://www.slideshare.net/healess/paper-explainable-aixai-in-computer-vision)
-* Dynamic Routing Between Capsules
+* [Dynamic Routing Between Capsules](https://www.slideshare.net/healess/paper-dynamic-routing-between-capsules)
 * [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://www.slideshare.net/healess/paper-shuffle-net-an-extremely-efficient-convolutional-neural-network-for-mobile-devices)
+* [Effective Approaches to Attention-based Neural Machine Translation](https://www.slideshare.net/healess/paper-attention-mechanismluong)
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 * Memory Networks, End-To-End Memory Networks, Dynamic Memory Networks 
-* [Effective Approaches to Attention-based Neural Machine Translation](https://www.slideshare.net/healess/paper-attention-mechanismluong)
+
   
 #### Back To The Basics
 ![Books](https://healess.github.io/assets/image/ai_books.jpg)

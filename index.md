@@ -34,7 +34,7 @@ entries_layout: grid
 | Title | URL |
 | :------------ | ------------: |
 | 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/) |
-| 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.edwith.org/boostcourse-dl-tensorflow) |
+| 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.boostcourse.org/ai212) |
 | Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.8) | [링크](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
 | POSCO ICT AI Challenge 2020/2021 (Mentor)|[링크](https://aichallenge.poscoict.com/) |
 |고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505)|
@@ -48,7 +48,7 @@ entries_layout: grid
 | AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
 | 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
 |성남시 청년 AI 프리인턴십 강의 |[링크](http://www.m-i.kr/news/articleView.html?idxno=824891)
-
+|Software 2.0 시대, AI is Everywhere (KAIST)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4)|
 
 ## Software Development
 * Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)

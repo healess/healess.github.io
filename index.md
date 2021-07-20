@@ -60,7 +60,8 @@ entries_layout: grid
 * 딥러닝 기반의 얼굴이미지 추출장치(Apparatus for Extracting Face Image Based on Deep Learning) (POSCO ICT)
 
 ## Book
-* 한국산업의 혁신전략 (안면인식 기술로 살펴본 AI 경쟁력 확보 방안) - 율곡출판사
+* 한국산업의 혁신전략 (안면인식 기술로 살펴본 AI 경쟁력 확보 방안) - 율곡출판사 
+(2021년 대한민국학술원 우수학술도서 선정) [링크](https://www.nas.go.kr/info/notice/view.jsp?NP_Code=10000043&NP_DataCode=20000014&NGB_Code=10002922)
 
 ## Skills
 * Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API), Docker, ML Ops

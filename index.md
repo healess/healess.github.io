@@ -69,6 +69,8 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* [Multiscale Vision Transformers(MViT)
+](https://www.slideshare.net/healess/paper-multiscale-vision-transformersmvit)
 * [DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
 ](https://www.slideshare.net/healess/paper-detectors-for-object-detection)
 * [Long-Term Feature Banks for Detailed Video Understanding](https://www.slideshare.net/healess/long-term-feature-banks-for-detailed-video-understanding-action-recognition)

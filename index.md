@@ -69,6 +69,8 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* [GIRAFFE : Representing Scenes as Compositional Generative Neural Feature Fields (CVPR 2021 Best Paper Award)  
+](https://www.slideshare.net/healess/paper-giraffe-representing-scenes-as-compositional-generative-neural-feature-fields)
 * [Multiscale Vision Transformers(MViT)
 ](https://www.slideshare.net/healess/paper-multiscale-vision-transformersmvit)
 * [DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution

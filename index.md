@@ -11,9 +11,11 @@ entries_layout: grid
 ## Work Experience
 * LG CNS - Infra Management (2005.01~02)
 * Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05)
-* POSCO ICT - AI Research Engineer, POSCO MES(PM, Developer) (2006.01.02~)
+* POSCO ICT - AI Research Engineer, POSCO MES(PM, Developer) (2006.01.02~Present)
 
 ## Research Experience
+* Efficient Action Recognition (POSTECH CVLab) (2020.03~Present)
+* Auxiliary Supervisions for Face Anti-Spoofing  (POSTECH IMLab) (2019.01~2019.12)
 * Predicting Early-Stage Dementia Through Language Model (KAIST)
 * A Study on the Securing AI Competitiveness of Domestic Company : Focused on Facial Recognition and SenseTime in China (KAIST)
 
@@ -24,10 +26,9 @@ entries_layout: grid
 * 2018년 올해의 포스코ICT人 [링크](https://smartfuture-poscoict.co.kr/428)
 
 ## Projects
-* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML) (2017~)
+* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML) (2017~Present)
 * POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2015~2017)
 * KISA Certification (Face Recognition 2018, Intelligence CCTV 2021)
-
 
 ## Lecture
 

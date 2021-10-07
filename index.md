@@ -51,14 +51,17 @@ entries_layout: grid
 | 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
 |성남시 청년 AI 프리인턴십 강의 |[링크](http://www.m-i.kr/news/articleView.html?idxno=824891)
 |Software 2.0 시대, AI is Everywhere (KAIST)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4)|
+|Industry 분야에서의 AI기술 개발 및 적용 방안(서울여대)|[링크](https://ds.swu.ac.kr/)|
+
 
 ## Press
+
 | Title | URL |
 | :------------ | ------------: |
 |포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/)
 | 중고생 AI 대회…“톡톡 튀는 아이디어에 현장 기술을”(KBS) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010888301) |
 | 안면인식 정확도 99.9%… 온라인시험·출퇴근 관리 딱(디지털타임즈) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002605641) |
-|코로나19, 비대면·비접촉으로 이긴다!(KBS)|[링크](https://www.youtube.com/watch?v=sULRv0IwnhQ)
+|코로나19, 비대면·비접촉으로 이긴다!(KBS)|[링크](https://www.youtube.com/watch?v=sULRv0IwnhQ)|
 
 ## Software Development
 * Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)

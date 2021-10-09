@@ -9,13 +9,13 @@ entries_layout: grid
 <!-- # My Profile -->
 
 ## Work Experience
-* LG CNS - Infra Management (2005.01~02)
+* LG CNS - Infra Management (2005.01~2005.02)
 * Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05)
 * POSCO ICT - AI Research Engineer, POSCO MES(PM, Developer) (2006.01.02~Present)
 
 ## Research Experience
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~Present)
-* Auxiliary Supervisions for Face Anti-Spoofing  (POSTECH IMLab) (2019.01~2019.12)
+* Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab) (2019.01~2019.12)
 * Predicting Early-Stage Dementia Through Language Model (KAIST)
 * A Study on the Securing AI Competitiveness of Domestic Company : Focused on Facial Recognition and SenseTime in China (KAIST)
 
@@ -36,32 +36,33 @@ entries_layout: grid
 | :------------ | ------------: |
 | 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/) |
 | 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.boostcourse.org/ai212) |
-|Python과 Tensorflow를 활용한 Al 챗봇 개발 (T아카데미)|[링크](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=120/) |
+| Python과 Tensorflow를 활용한 Al 챗봇 개발 (T아카데미)|[링크](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=120/) |
 | POSCO ICT AI Challenge 2020/2021 (Mentor)|[링크](https://aichallenge.poscoict.com/) |
-|고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505)|
+| 고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505)|
 
 ## Talks
 
 | Title | URL |
 | :------------ | ------------: |
-| [웨비나] 딥러닝을 활용한 AI 영상분석의 진화 | [링크](https://youtu.be/oe937gzXn44) |
+| Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.08) | [자료](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
+| [웨비나] 딥러닝을 활용한 AI 영상분석의 진화 (2020.11)| [링크](https://youtu.be/oe937gzXn44) |
 | 딥러닝 기반 안면인식 개발과 적용방안 (한국미래기술교육연구원) (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563) |
-| Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.8) | [자료](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
-| AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
-| 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
-|성남시 청년 AI 프리인턴십 강의 |[링크](http://www.m-i.kr/news/articleView.html?idxno=824891)
-|Software 2.0 시대, AI is Everywhere (KAIST)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4)|
-|Industry 분야에서의 AI기술 개발 및 적용 방안(서울여대)|[링크](https://ds.swu.ac.kr/)|
+| 성남시 청년 AI 프리인턴십 강의 (2021.05)|[링크](http://www.m-i.kr/news/articleView.html?idxno=824891)
+| Software 2.0 시대, AI is Everywhere (KAIST) (2021.07)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4)|
+| Industry 분야에서의 AI기술 개발 및 적용 방안 (서울여대) (2021.10)|[링크](https://ds.swu.ac.kr/)|
 
 
 ## Press
 
 | Title | URL |
 | :------------ | ------------: |
-|포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/)
+| 포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/)
 | 중고생 AI 대회…“톡톡 튀는 아이디어에 현장 기술을”(KBS) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010888301) |
 | 안면인식 정확도 99.9%… 온라인시험·출퇴근 관리 딱(디지털타임즈) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002605641) |
 |코로나19, 비대면·비접촉으로 이긴다!(KBS)|[링크](https://www.youtube.com/watch?v=sULRv0IwnhQ)|
+| AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
+| 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
+
 
 ## Software Development
 * Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)

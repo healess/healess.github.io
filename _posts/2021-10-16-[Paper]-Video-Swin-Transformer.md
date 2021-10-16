@@ -1,8 +1,17 @@
-# Video Swin Transformer 논문 리뷰
+---
+title: "[논문 리뷰] Video Swin Transformer"
+excerpt_separator: "<!--more-->"
+categories:
+  - Paper
+tags:
+  - AI
+use_math: true 
+---
+# Video Swin Transformer
 
 ![Untitled](https://healess.github.io/assets/image/Video-Swin-Transformer/Untitled.png)
 
-2021년 6월 24일 arXiv에 올라온 Video Swin Transformer를 Review하고자 합니다. (Written by Susang Kim)
+2021년 6월 24일 arXiv에 올라온 Video Swin Transformer를 Review하고자 합니다. 
 
 ## Abstract
 
@@ -204,6 +213,59 @@ Swin Transformer에서 시간축이 추가된 Video Swin Transformer 구조로 f
 평가 데이터 셋은 3가지가 사용되었는데 각 dataset에 대한 top-1과 top-5 정확도를 기록하였습니다. ~240k의 training video와 20k의 validation video로 400개의 human action category로 구성되어 있는 Kinetics-400(K400)과 K400에서 확장된 600개의 human action category를 ~370k의 training video와 28.3k의 validation video로 구성된 Kinetics-600(K600)과 temporal modeling을 위한 ~168.9k의 training video와 24.7k의 validation으로 174개의 class로 구성된 Something-Something V2 (SSv2)를 사용하였습니다. 
 
 ### Implementation Details
+
+Video Swin Transformer는 OpenMMLab의 [mmaction2](https://github.com/open-mmlab/mmaction2)를 기반으로 구현되어 있습니다. 또한 각 데이터셋 별로 config_file.py(e.g. configs/recognition/swin/swin_tiny_patch244_window877_kinetics400_1k.py)을 별도로 만들어 튜닝 및 평가가 가능합니다.  
+
+- configs/recognition/swin/swin_base_patch244_window877_kinetics400_1k.py
+```python
+train_pipeline = [
+    dict(type='DecordInit'),
+    dict(type='SampleFrames', clip_len=32, frame_interval=2, num_clips=1),
+    dict(type='DecordDecode'),
+    dict(type='Resize', scale=(-1, 256)),
+    dict(type='RandomResizedCrop'),
+    dict(type='Resize', scale=(224, 224), keep_ratio=False),
+    dict(type='Flip', flip_ratio=0.5),
+    dict(type='Normalize', **img_norm_cfg),
+    dict(type='FormatShape', input_format='NCTHW'),
+    dict(type='Collect', keys=['imgs', 'label'], meta_keys=[]),
+    dict(type='ToTensor', keys=['imgs', 'label'])
+]
+val_pipeline = [
+    dict(type='DecordInit'),
+    dict(
+        type='SampleFrames',
+        clip_len=32,
+        frame_interval=2,
+        num_clips=1,
+        test_mode=True),
+    dict(type='DecordDecode'),
+    dict(type='Resize', scale=(-1, 256)),
+    dict(type='CenterCrop', crop_size=224),
+    dict(type='Flip', flip_ratio=0),
+    dict(type='Normalize', **img_norm_cfg),
+    dict(type='FormatShape', input_format='NCTHW'),
+    dict(type='Collect', keys=['imgs', 'label'], meta_keys=[]),
+    dict(type='ToTensor', keys=['imgs'])
+]
+evaluation = dict(
+    interval=5, metrics=['top_k_accuracy', 'mean_class_accuracy'])
+
+# optimizer
+optimizer = dict(type='AdamW', lr=1e-3, betas=(0.9, 0.999), weight_decay=0.05,
+                 paramwise_cfg=dict(custom_keys={'absolute_pos_embed': dict(decay_mult=0.),
+                                                 'relative_position_bias_table': dict(decay_mult=0.),
+                                                 'norm': dict(decay_mult=0.),
+                                                 'backbone': dict(lr_mult=0.1)}))
+# learning policy
+lr_config = dict(
+    policy='CosineAnnealing',
+    min_lr=0,
+    warmup='linear',
+    warmup_by_epoch=True,
+    warmup_iters=2.5
+)
+```
 
 ## 4.2 Comparison to state-of-the-art
 

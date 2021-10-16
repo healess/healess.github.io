@@ -46,7 +46,12 @@ liquid:
 
 # Build settings
 permalink: /:categories/:title/
+# Conversion
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 feed:
   path: atom.xml
 

@@ -83,7 +83,7 @@ entries_layout: grid
 ## Slides
 #### Paper Review
 * ["Video Swin Transformer.", arXiv, 2021.](https://healess.github.io/Paper-Video-Swin-Transformer/)
-* ["GIRAFFE : Representing Scenes as Compositional Generative Neural Feature Fields.(CVPR 2021 Best Paper Award)", CVPR, 2021.  
+* ["GIRAFFE : Representing Scenes as Compositional Generative Neural Feature Fields.", CVPR, 2021(Best Paper Award).  
 ](https://www.slideshare.net/healess/paper-giraffe-representing-scenes-as-compositional-generative-neural-feature-fields)
 * ["Multiscale Vision Transformers(MViT).", arXiv, 2021.
 ](https://www.slideshare.net/healess/paper-multiscale-vision-transformersmvit)

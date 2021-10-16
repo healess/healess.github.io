@@ -1,4 +1,4 @@
-# [Paper] Video Swin Transformer
+# Video Swin Transformer 논문 리뷰
 
 ![Untitled](https://healess.github.io/assets/image/Video-Swin-Transformer/Untitled.png)
 

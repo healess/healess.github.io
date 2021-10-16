@@ -82,15 +82,16 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
-* [GIRAFFE : Representing Scenes as Compositional Generative Neural Feature Fields (CVPR 2021 Best Paper Award)  
+* ["Video Swin Transformer.", arXiv, 2021.](https://healess.github.io/Paper-Video-Swin-Transformer/)
+* ["GIRAFFE : Representing Scenes as Compositional Generative Neural Feature Fields.(CVPR 2021 Best Paper Award)", CVPR, 2021.  
 ](https://www.slideshare.net/healess/paper-giraffe-representing-scenes-as-compositional-generative-neural-feature-fields)
-* [Multiscale Vision Transformers(MViT)
+* ["Multiscale Vision Transformers(MViT).", arXiv, 2021.
 ](https://www.slideshare.net/healess/paper-multiscale-vision-transformersmvit)
-* [DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
+* ["DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution.", CVPR, 2021.
 ](https://www.slideshare.net/healess/paper-detectors-for-object-detection)
-* [Long-Term Feature Banks for Detailed Video Understanding](https://www.slideshare.net/healess/long-term-feature-banks-for-detailed-video-understanding-action-recognition)
-* [GroupFace: Learning Latent Groups and Constructing Group-based Representations for Face Recognition](https://www.slideshare.net/healess/groupface-face-recognition)
-* [Learning Video Representations from Correspondence Proposals](https://www.slideshare.net/healess/paper-learning-video-representations-from-correspondence-proposals)
+* ["Long-Term Feature Banks for Detailed Video Understanding.", CVPR, 2019.](https://www.slideshare.net/healess/long-term-feature-banks-for-detailed-video-understanding-action-recognition)
+* ["GroupFace: Learning Latent Groups and Constructing Group-based Representations for Face Recognition.", CVPR, 2020.](https://www.slideshare.net/healess/groupface-face-recognition)
+* ["Learning Video Representations from Correspondence Proposals.", CVPR, 2019(Oral).](https://www.slideshare.net/healess/paper-learning-video-representations-from-correspondence-proposals)
 * [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://www.slideshare.net/healess/i3d-and-kinetics-datasets-action-recognition)
 * [Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision](https://www.slideshare.net/healess/paper-anti-spoofing-for-face-recognition)
 * [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.slideshare.net/healess/paper-eda-easy-data-augmentation-techniques-for-boosting-performance-on-text-classification-tasks)

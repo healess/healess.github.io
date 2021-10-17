@@ -15,33 +15,33 @@ use_math: true
 
 ## Abstract
 
-Vision분야 backbone에는  일반적으로 많이 활용되는 CNN에서 Transformers구조로 바뀌고 있는 상황이고 특히 Pure Transformer Architecture의 경우 major benchmarks에서 최고의 성능을 보여주고 있습니다. Image에서 시간축이 확장된 Video models의 경우에는 Spatial, Temporal 정보를 통해 Patch를 구성해야 합니다. 본 논문에서는 Swin Transformer[1]구조를 Video에 도입하여 기존에 video recognition에서 Convolution-based backbone이 가지고 있던 inductive bias와 spatial and temporal domain에서의 speed-accuracy trade-off의 문제를 해결하면서 video recognition benchmarks(Kinetics-400, Kinetics-600, Something-Something v2)에서 SOTA를 달성하였습니다. 
+최근 Vision분야 아키텍쳐는 일반적으로 많이 활용되는 CNN에서 Transformers구조로 바뀌고 있는 상황이고 특히 Pure Transformer Architecture의 경우 major benchmarks에서 최고의 성능을 보여주고 있습니다. Image에서 시간축이 확장된 Video models의 경우에는 Spatial, Temporal 정보를 통해 Patch를 구성해야 합니다. 본 논문에서는 Swin Transformer[1]구조를 Video에 도입하여 기존에 video recognition에서 Convolution-based backbone이 가지고 있던 inductive bias와 spatial and temporal domain에서의 speed-accuracy trade-off의 문제를 해결하면서 video recognition benchmarks(Kinetics-400, Kinetics-600, Something-Something v2)에서 SOTA를 달성하였습니다. 
 
 - Official Implementation Repo : [https://github.com/SwinTransformer/Video-Swin-Transformer](https://github.com/SwinTransformer/Video-Swin-Transformer)
 
 ## 1.Introduction
 
-Transformer는 Image의 patch정보를 linear embedding을 통해 global하게 spatiotemporal relationships을 이해할 수 있는 특징이 있습니다. 또한 video recognition에서 spatiotemporal 정보의 Global self-attention을 적용하게 되면 높은 연산량과 큰 파라미터가 필요합니다. 이를 해결하기 위해 지금껏  factorization과 같은 접근을 통해 정확도는 유지하면서 연산량을 감소시킬 수 있었습니다. 하지만 본 논문에서 제안하는 Swin Transformer의 경우 spatial locality에 대한 inductive bias를 포함하면서도 hierarchical structure와 translation invariance(위치 변화에 영향이 없음)하게 구성하고 연산량을 주이기 위한 non-overlapping windows와 shifted window mechanism을 적용하였습니다. 또한 작은 pre-training dataset(ImageNet-21K vs. JFT-300M)을 통해서도 좋은 성능을 보여주고 있습니다. 
+Transformer 아키텍쳐는 Video의 patch정보(3D)를 linear embedding을 통해 global하게 spatiotemporal relationships을 이해할 수 있는 특징이 있습니다. 또한 video recognition에서 spatiotemporal 정보의 Global self-attention을 적용하게 되면 높은 연산량과 큰 파라미터가 필요합니다. 이를 해결하기 위해 지금껏 factorization과 같은 접근을 통해 정확도는 유지하면서 연산량을 감소시킬 수 있었습니다. 하지만 본 논문에서 제안하는 Swin Transformer의 경우 spatial locality에 대한 inductive bias를 포함하면서도 hierarchical structure와 translation invariance(위치 변화에 영향이 없음)하게 구성하고 연산량을 줄이기 위한 non-overlapping windows와 shifted window mechanism을 적용하였습니다. 또한 작은 pre-training dataset(ImageNet-21K vs JFT-300M)을 통해서도 좋은 성능을 보여주고 있습니다. 
 
 ## 2.Related Works
 
 ### CNN and variants
 
-CNN은 오랜기간 computer vision 영역에서 표준화된 backbone로 활용되어 왔습니다. CNN의 경우  input value의 위치가 변함에 따라 feature map value도 변하는 translation equivariance한 네트워크입니다. 또한 locally connected한 성격 때문에 inductive bias가 있습니다. 
+CNN은 오랜기간 computer vision 영역에서 표준화된 backbone으로 활용되어 왔습니다. CNN의 경우  input value의 위치가 변함에 따라 feature map value도 변하는 translation equivariance한 네트워크입니다. 또한 locally connected한 성격 때문에 inductive bias가 있습니다. 
 
 ### Self-attention/Transformers to complement CNNs
 
-Self-attention의 경우 long range 정보를 볼 수 있음에 따라 CNN과 함께 Self-Attention block을 적용하는 Non-local neural networks가 활용되어 왔습니다.
+Self-attention의 경우 long range 정보를 볼 수 있음에 따라 CNN과 함께 상호 보완적으로 Self-Attention block을 적용하여 연산량과 파라미터 수를 줄이는 Non-local neural networks가 활용되어 왔습니다.
 
 ### Vision Transformers
 
-ViT와 같이 CNN이 없는 Transformer-based 아키텍쳐의 경우 inductive bias는 적은 편이지만 많은량의 data를 필요로 합니다.(e.g. JFT-300m) 반면 Swin Transformer의 경우 ImageNet만으로도 더 좋은 성능을 달성할 수 있게 되었습니다. 
+ViT와 같이 CNN이 없는 순수 Transformer-based 아키텍쳐의 경우 inductive bias는 적은 편이지만 많은량의 data를 필요로 합니다.(e.g. JFT-300m) 반면 Swin Transformer의 경우 ImageNet만으로도 더 좋은 성능을 달성할 수 있게 되었습니다. 
 
 ## 3.Video Swin Transformer
 
 ### 3.1 Overall Architecture
 
-Video에서는 input 값이 T x H x W x 3(3D Patch)로 구성되는데 Video Swin Transformer의 경우 Figure 1과 같이 3D Patch의 사이즈를 2 x 4 x 4 x 3의 token으로 구성하여 실재 토큰의 수는 아래와 같이 나눠지고 $\frac{T}{2} \times \frac{H}{4} \times \frac{W}{4} 3 \mathrm{D}$ 각각의 토큰은 96 dimensional feature(channel)로 구성됩니다. 
+Video에서는 input 값이 T x H x W x 3(3D Patch)로 구성되는데 Video Swin Transformer의 경우 Figure 1과 같이 3D Patch의 사이즈를 2 x 4 x 4 x 3의 token으로 구성하여 실재 토큰의 수는 아래와 같이 나눠지고 $\frac{T}{2} \times \frac{H}{4} \times \frac{W}{4} 3 \mathrm{D}$ 로  구성된 각각의 토큰은 96 dimensional feature(channel)로 구성됩니다. 
 
 ![Untitled](https://healess.github.io/assets/image/Video-Swin-Transformer/Untitled%201.png)
 
@@ -250,14 +250,11 @@ val_pipeline = [
 ]
 evaluation = dict(
     interval=5, metrics=['top_k_accuracy', 'mean_class_accuracy'])
-
-# optimizer
 optimizer = dict(type='AdamW', lr=1e-3, betas=(0.9, 0.999), weight_decay=0.05,
                  paramwise_cfg=dict(custom_keys={'absolute_pos_embed': dict(decay_mult=0.),
                                                  'relative_position_bias_table': dict(decay_mult=0.),
                                                  'norm': dict(decay_mult=0.),
                                                  'backbone': dict(lr_mult=0.1)}))
-# learning policy
 lr_config = dict(
     policy='CosineAnnealing',
     min_lr=0,
@@ -325,13 +322,13 @@ model=dict(backbone=dict(patch_size=(2,4,4), window_size=(16,7,7), drop_path_rat
 
 ### Different designs for spatiotemporal attention
 
-spatiotemporal attention을 적용하기 위한 3가지 design으로 joint, split and factorized
+spatiotemporal attention을 적용하기 위한 3가지 design으로 joint, split and factorized로 설계하였고 Spatial과 Temporal attention을 별도로 보는 split나 factorized보다 동일 attention layer에서 수행하는 joint version이 가장 좋은 성능을 보여주고 있습니다.
 
 ![Untitled](https://healess.github.io/assets/image/Video-Swin-Transformer/Untitled%208.png)
 
 ### Temporal dimension of 3D tokens and Temporal window size
 
-긴 시간축을 보는 만큼 정확도는 올라가지만 높은 연산량과 느린 처리 속도의 한계가 있습니다. Windows size의 경우에도 같은 결과를 보이고 있습니다. 
+3D Token이 긴 시간축으로 보게될 경우 정확도는 올라가지만 높은 연산량과 느린 처리 속도의 한계가 있습니다. Temporal Windows size의 경우에도 같은 결과를 보이고 있습니다. 
 
 ![Untitled](https://healess.github.io/assets/image/Video-Swin-Transformer/Untitled%209.png)
 
@@ -363,4 +360,5 @@ ViViT[2]에서 소개된 linear embedding layer에 Cetner initialization(Center 
 
 [2] A. Arnab et al., “ViViT: A Video Vision Transformer,” arXiv, 2021.
 
--끝-
+Reviewed by Susang Kim
+

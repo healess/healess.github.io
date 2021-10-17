@@ -82,24 +82,24 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
-* ["Video Swin Transformer.", arXiv, 2021.](https://healess.github.io/Paper-Video-Swin-Transformer/)
+* ["Video Swin Transformer.", arXiv, 2021.](https://healess.github.io/paper/Paper-Video-Swin-Transformer/)
 * ["GIRAFFE : Representing Scenes as Compositional Generative Neural Feature Fields.", CVPR, 2021(Best Paper Award).  
 ](https://www.slideshare.net/healess/paper-giraffe-representing-scenes-as-compositional-generative-neural-feature-fields)
 * ["Multiscale Vision Transformers(MViT).", arXiv, 2021.
 ](https://www.slideshare.net/healess/paper-multiscale-vision-transformersmvit)
 * ["DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution.", CVPR, 2021.
 ](https://www.slideshare.net/healess/paper-detectors-for-object-detection)
-* ["Long-Term Feature Banks for Detailed Video Understanding.", CVPR, 2019.](https://www.slideshare.net/healess/long-term-feature-banks-for-detailed-video-understanding-action-recognition)
 * ["GroupFace: Learning Latent Groups and Constructing Group-based Representations for Face Recognition.", CVPR, 2020.](https://www.slideshare.net/healess/groupface-face-recognition)
+* ["Long-Term Feature Banks for Detailed Video Understanding.", CVPR, 2019.](https://www.slideshare.net/healess/long-term-feature-banks-for-detailed-video-understanding-action-recognition)
 * ["Learning Video Representations from Correspondence Proposals.", CVPR, 2019(Oral).](https://www.slideshare.net/healess/paper-learning-video-representations-from-correspondence-proposals)
-* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://www.slideshare.net/healess/i3d-and-kinetics-datasets-action-recognition)
-* [Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision](https://www.slideshare.net/healess/paper-anti-spoofing-for-face-recognition)
-* [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.slideshare.net/healess/paper-eda-easy-data-augmentation-techniques-for-boosting-performance-on-text-classification-tasks)
-* [AutoML Part 1 : Bayesian Optimization, AMC, Auto Augmentation, Active Learning](https://www.slideshare.net/healess/paper-auto-ml-part-1)
-* [eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network)](https://www.slideshare.net/healess/paper-explainable-aixai-in-computer-vision)
-* [Dynamic Routing Between Capsules](https://www.slideshare.net/healess/paper-dynamic-routing-between-capsules)
-* [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://www.slideshare.net/healess/paper-shuffle-net-an-extremely-efficient-convolutional-neural-network-for-mobile-devices)
-* [Effective Approaches to Attention-based Neural Machine Translation](https://www.slideshare.net/healess/paper-attention-mechanismluong)
+* ["EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks.", EMNLP, 2019.](https://www.slideshare.net/healess/paper-eda-easy-data-augmentation-techniques-for-boosting-performance-on-text-classification-tasks)
+* ["AutoML Part 1 : Bayesian Optimization, AMC, Auto Augmentation, Active Learning"](https://www.slideshare.net/healess/paper-auto-ml-part-1)
+* ["eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network).", CVPR, 2019.](https://www.slideshare.net/healess/paper-explainable-aixai-in-computer-vision)
+* ["Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision", CVPR, 2018.](https://www.slideshare.net/healess/paper-anti-spoofing-for-face-recognition)
+* ["ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.", CVPR, 2018.](https://www.slideshare.net/healess/paper-shuffle-net-an-extremely-efficient-convolutional-neural-network-for-mobile-devices)
+* ["Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset.", CVPR, 2017.](https://www.slideshare.net/healess/i3d-and-kinetics-datasets-action-recognition)
+* ["Dynamic Routing Between Capsules.", NIPS, 2017.](https://www.slideshare.net/healess/paper-dynamic-routing-between-capsules)
+* ["Effective Approaches to Attention-based Neural Machine Translation.", EMNLP, 2015.](https://www.slideshare.net/healess/paper-attention-mechanismluong)
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 * Memory Networks, End-To-End Memory Networks, Dynamic Memory Networks 
 

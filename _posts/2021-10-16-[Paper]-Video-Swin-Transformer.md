@@ -217,6 +217,7 @@ Swin Transformer에서 시간축이 추가된 Video Swin Transformer 구조로 f
 Video Swin Transformer는 OpenMMLab의 [mmaction2](https://github.com/open-mmlab/mmaction2)를 기반으로 구현되어 있습니다. 또한 각 데이터셋 별로 config_file.py(e.g. configs/recognition/swin/swin_tiny_patch244_window877_kinetics400_1k.py)을 별도로 만들어 튜닝 및 평가가 가능합니다.  
 
 - configs/recognition/swin/swin_base_patch244_window877_kinetics400_1k.py
+
 ```python
 train_pipeline = [
     dict(type='DecordInit'),

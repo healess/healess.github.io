@@ -9,9 +9,10 @@ entries_layout: grid
 <!-- # My Profile -->
 
 ## Work Experience
-* LG CNS - Infra Management (2005.01~2005.02)
+* POSCO ICT - AI Research Engineer (2016.06~Present)
 * Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05)
-* POSCO ICT - AI Research Engineer, POSCO MES(PM, Developer) (2006.01.02~Present)
+* POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02)
+* LG CNS - Infra Management (2005.01~2005.02)
 
 ## Research Experience
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~Present)
@@ -19,16 +20,16 @@ entries_layout: grid
 * Predicting Early-Stage Dementia Through Language Model (KAIST)
 * A Study on the Securing AI Competitiveness of Domestic Company : Focused on Facial Recognition and SenseTime in China (KAIST)
 
+## Projects
+* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML) (2017~Present)
+* POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
+* KISA Certification (Face Recognition 2018, Intelligence CCTV 2021)
+
 ## Honors & Award
 * 제11회 공개SW개발자 대회 금상 (과학기술정보통신부 주최) (2017.12) [링크](https://www.oss.kr/dev_competition_activities/show/a0f60bdb-d64d-4bd7-8c6b-8a9df7d2647f) 
 * 2019 T아카데미 AWARD 딥러닝 부분 Top 11 [링크](https://tacademy.skplanet.com/front/customer/viewNotice.action?seq=735&topYn=N) 
 * Highest Honor(Spring semester of 2019) / High Honor(2020) (KAIST)
 * 2018년 올해의 포스코ICT人 [링크](https://smartfuture-poscoict.co.kr/428)
-
-## Projects
-* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML) (2017~Present)
-* POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2015~2017)
-* KISA Certification (Face Recognition 2018, Intelligence CCTV 2021)
 
 ## Lecture
 

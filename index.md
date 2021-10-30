@@ -83,6 +83,8 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["TokenLearner: What Can 8 Learned Tokens Do for Images and
+Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)
 * ["Video Swin Transformer.", arXiv, 2021.](https://healess.github.io/paper/Paper-Video-Swin-Transformer/)
 * ["GIRAFFE : Representing Scenes as Compositional Generative Neural Feature Fields.", CVPR, 2021(Best Paper Award).  
 ](https://www.slideshare.net/healess/paper-giraffe-representing-scenes-as-compositional-generative-neural-feature-fields)

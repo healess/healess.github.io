@@ -1,4 +1,13 @@
-# [Paper] TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?
+---
+title: "[논문 리뷰] TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?"
+excerpt_separator: "<!--more-->"
+categories:
+  - Paper
+tags:
+  - AI
+use_math: true 
+---
+# TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?
 
 ![Untitled](https://healess.github.io/assets/image/TokenLearner/Untitled.png)
 

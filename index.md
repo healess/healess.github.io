@@ -51,6 +51,7 @@ entries_layout: grid
 | 성남시 청년 AI 프리인턴십 강의 (2021.05)|[링크](http://www.m-i.kr/news/articleView.html?idxno=824891)
 | Software 2.0 시대, AI is Everywhere (KAIST) (2021.07)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4)|
 | Industry 분야에서의 AI기술 개발 및 적용 방안 (서울여대) (2021.10)|[링크](https://ds.swu.ac.kr/)|
+| Industry 분야에서의 AI기술 개발 및 적용 방안 (경기도미래기술캠퍼스) (2021.12)|[링크](http://www.ggmirae.co.kr/course/curriculum/11)|
 
 
 ## Press

@@ -84,12 +84,14 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* "Improved Multiscale Vision Transformers for Classification and Detection.", arXiv, 2021.
+* "Relational Self-Attention: What's Missing in Attention for Video Understanding", NeurIPS, 2021.
 * ["TokenLearner: What Can 8 Learned Tokens Do for Images and
 Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)
 * ["Video Swin Transformer.", arXiv, 2021.](https://healess.github.io/paper/Paper-Video-Swin-Transformer/)
 * ["GIRAFFE : Representing Scenes as Compositional Generative Neural Feature Fields.", CVPR, 2021(Best Paper Award).  
 ](https://www.slideshare.net/healess/paper-giraffe-representing-scenes-as-compositional-generative-neural-feature-fields)
-* ["Multiscale Vision Transformers(MViT).", arXiv, 2021.
+* ["Multiscale Vision Transformers(MViT).", ICCV, 2021.
 ](https://www.slideshare.net/healess/paper-multiscale-vision-transformersmvit)
 * ["DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution.", CVPR, 2021.
 ](https://www.slideshare.net/healess/paper-detectors-for-object-detection)

@@ -84,7 +84,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
-* "Improved Multiscale Vision Transformers for Classification and Detection.", arXiv, 2021.
+* ["Improved Multiscale Vision Transformers for Classification and Detection.", arXiv, 2021.](https://healess.github.io/paper/Paper-Improved-Multiscale-Vision-Transformers/)
 * "Relational Self-Attention: What's Missing in Attention for Video Understanding", NeurIPS, 2021.
 * ["TokenLearner: What Can 8 Learned Tokens Do for Images and
 Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)

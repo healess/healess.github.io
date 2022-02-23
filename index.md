@@ -64,7 +64,7 @@ entries_layout: grid
 |코로나19, 비대면·비접촉으로 이긴다!(KBS)|[링크](https://www.youtube.com/watch?v=sULRv0IwnhQ)|
 | AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
 | 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
-| 스마트한 미래를 꿈꾸며 신기술을 찾아 나서는 IT 전문가! 포스코ICT 김수상 님(포스코 뉴스룸) | [링크](https://newsroom.posco.com/kr/%EC%82%AC%EB%9E%8C%EC%82%AC%EB%9E%8C%EB%93%A4-24%ED%8E%B8-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%A9%B0-%EC%8B%A0%EA%B8%B0%EC%88%A0%EC%9D%84-%EC%B0%BE/) |
+| 스마트한 미래를 꿈꾸며 신기술을 찾아 나서는 IT 전문가! 포스코ICT 김수상 님(포스코 뉴스룸) |
 
 ## Software Development
 * Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)

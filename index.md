@@ -17,13 +17,13 @@ entries_layout: grid
 ## Research Experience
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~Present)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab) (2019.01~2019.12)
-* Predicting Early-Stage Dementia Through Language Model (KAIST)
-* A Study on the Securing AI Competitiveness of Domestic Company : Focused on Facial Recognition and SenseTime in China (KAIST)
+* Predicting Early-Stage Dementia Through Language Model (KAIST AI)
+* A Study on the Securing AI Competitiveness of Domestic Company : Focused on Facial Recognition and SenseTime in China (KAIST I&TM)
 
 ## Projects
 * Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML) (2017~Present)
 * POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
-* KISA Certification (Face Recognition 2018, Intelligence CCTV 2021)
+* KISA Certification (Face Recognition 2018, Intelligence CCTV 2021) [링크](https://smartfuture-poscoict.co.kr/451)
 
 ## Honors & Award
 * 제11회 공개SW개발자 대회 금상 (과학기술정보통신부 주최) (2017.12) [링크](https://www.oss.kr/dev_competition_activities/show/a0f60bdb-d64d-4bd7-8c6b-8a9df7d2647f) 

@@ -10,7 +10,7 @@ entries_layout: grid
 
 ## Work Experience
 * POSCO ICT - AI Research Engineer (2016.06~Present)
-* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05)
+* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](https://photos.app.goo.gl/DLK3UsKsPhqbJxw1A)
 * POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02)
 * LG CNS - Infra Management (2005.01~2005.02)
 
@@ -69,7 +69,7 @@ entries_layout: grid
 ## Software Development
 * Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)
 * 성장진단 iPhone App (국내 앱스토어 Top 100) (2012)
-* ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011)
+* ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011) 
 
 ## Patents
 * 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 (METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON) (KAIST)

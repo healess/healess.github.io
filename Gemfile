@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
 # use local theme gem for testing
-
-gem "jekyll"
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "jekyll-gist"

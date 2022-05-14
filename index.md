@@ -10,7 +10,7 @@ entries_layout: grid
 
 ## Work Experience
 * POSCO ICT - AI Research Engineer (2016.06~Present)
-* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](https://healess.github.io/assets/image/pivotal.JPG)
+* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](https://healess.github.io/assets/image/pivotal.JPG){:target="_blank"}
 * POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02) [링크](https://smartfuture-poscoict.co.kr/331)
 * LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg)
 

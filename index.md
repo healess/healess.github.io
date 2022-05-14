@@ -11,8 +11,8 @@ entries_layout: grid
 ## Work Experience
 * POSCO ICT - AI Research Engineer (2016.06~Present)
 * Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](https://healess.github.io/assets/image/pivotal.JPG){:target="_blank"}
-* POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02) [링크](https://smartfuture-poscoict.co.kr/331)
-* LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg)
+* POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02) [링크](https://smartfuture-poscoict.co.kr/331){:target="_blank"}
+* LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg){:target="_blank"}
 
 ## Research Experience
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~Present)
@@ -23,35 +23,35 @@ entries_layout: grid
 ## Projects
 * Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML) (2017~Present)
 * POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
-* KISA Certification (Face Recognition 2018, Intelligence CCTV 2021) [링크](https://smartfuture-poscoict.co.kr/451)
+* KISA Certification (Face Recognition 2018, Intelligence CCTV 2021) [링크](https://smartfuture-poscoict.co.kr/451){:target="_blank"}
 
 ## Honors & Award
-* 제11회 공개SW개발자 대회 금상 (과학기술정보통신부 주최) (2017.12) [링크](https://www.oss.kr/dev_competition_activities/show/a0f60bdb-d64d-4bd7-8c6b-8a9df7d2647f) 
-* 2019 T아카데미 AWARD 딥러닝 부분 Top 11 [링크](https://tacademy.skplanet.com/front/customer/viewNotice.action?seq=735&topYn=N) 
+* 제11회 공개SW개발자 대회 금상 (과학기술정보통신부 주최) (2017.12) [링크](https://www.oss.kr/dev_competition_activities/show/a0f60bdb-d64d-4bd7-8c6b-8a9df7d2647f){:target="_blank"}
+* 2019 T아카데미 AWARD 딥러닝 부분 Top 11 [링크](https://tacademy.skplanet.com/front/customer/viewNotice.action?seq=735&topYn=N){:target="_blank"} 
 * Highest Honor(Spring semester of 2019) / High Honor(2020) (KAIST)
-* 2018년 올해의 포스코ICT人 [링크](https://smartfuture-poscoict.co.kr/428)
+* 2018년 올해의 포스코ICT人 [링크](https://smartfuture-poscoict.co.kr/428){:target="_blank"}
 
 ## Lecture
 
 | Title | URL |
 | :------------ | ------------: |
-| 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/) |
-| 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.boostcourse.org/ai212) |
-| Python과 Tensorflow를 활용한 Al 챗봇 개발 (T아카데미)|[링크](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=120/) |
-| POSCO ICT AI Challenge 2020/2021 (Mentor)|[링크](https://aichallenge.poscoict.com/) |
-| 고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505)|
+| 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/){:target="_blank"} |
+| 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.boostcourse.org/ai212){:target="_blank"} |
+| Python과 Tensorflow를 활용한 Al 챗봇 개발 (T아카데미)|[링크](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=120/){:target="_blank"} |
+| POSCO ICT AI Challenge 2020/2021 (Mentor)|[링크](https://aichallenge.poscoict.com/){:target="_blank"} |
+| 고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505){:target="_blank"}|
 
 ## Talks
 
 | Title | URL |
 | :------------ | ------------: |
-| Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.08) | [자료](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot) |
-| [웨비나] 딥러닝을 활용한 AI 영상분석의 진화 (2020.11)| [링크](https://youtu.be/oe937gzXn44) |
+| Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.08) | [자료](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot){:target="_blank"} |
+| [웨비나] 딥러닝을 활용한 AI 영상분석의 진화 (2020.11)| [링크](https://youtu.be/oe937gzXn44){:target="_blank"} |
 | 딥러닝 기반 안면인식 개발과 적용방안 (한국미래기술교육연구원) (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563) |
-| 성남시 청년 AI 프리인턴십 강의 (2021.05)|[링크](http://www.m-i.kr/news/articleView.html?idxno=824891)
-| Software 2.0 시대, AI is Everywhere (KAIST) (2021.07)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4)|
-| Industry 분야에서의 AI기술 개발 및 적용 방안 (서울여대) (2021.10)|[링크](https://ds.swu.ac.kr/)|
-| Industry 분야에서의 AI기술 개발 및 적용 방안 (경기도미래기술캠퍼스) (2021.12)|[링크](http://www.ggmirae.co.kr/course/curriculum/11)|
+| 성남시 청년 AI 프리인턴십 강의 (2021.05)|[링크](http://www.m-i.kr/news/articleView.html?idxno=824891){:target="_blank"}
+| Software 2.0 시대, AI is Everywhere (KAIST) (2021.07)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4){:target="_blank"} |
+| Industry 분야에서의 AI기술 개발 및 적용 방안 (서울여대) (2021.10)|[링크](https://ds.swu.ac.kr/){:target="_blank"} |
+| Industry 분야에서의 AI기술 개발 및 적용 방안 (경기도미래기술캠퍼스) (2021.12)|[링크](http://www.ggmirae.co.kr/course/curriculum/11){:target="_blank"} |
 
 
 ## Press
@@ -68,9 +68,9 @@ entries_layout: grid
 | AI Framework, 공개SW개발자대회서 정보통신진흥원장상 수상 | [링크](https://www.poscoict.com/servlet/PoscoictBoard?code=news&lang=kr&mode=view&page=1&seq=4225&find_val=)
 
 ## Software Development
-* Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)
-* 성장진단 iPhone App (국내 앱스토어 Top 100) (2012) [링크](https://github.com/healess/BabyGrowthEng)
-* ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011) [링크](https://photos.app.goo.gl/zaUT33oWd59aHEni8)
+* Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA){:target="_blank"}
+* 성장진단 iPhone App (국내 앱스토어 Top 100) (2012) [링크](https://github.com/healess/BabyGrowthEng){:target="_blank"}
+* ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011) [링크](https://photos.app.goo.gl/zaUT33oWd59aHEni8){:target="_blank"}
 
 ## Patents
 * 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 (METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON) (KAIST)
@@ -78,10 +78,10 @@ entries_layout: grid
 
 ## Book
 * 한국산업의 혁신전략 (안면인식 기술로 살펴본 AI 경쟁력 확보 방안) - 율곡출판사 
-(2021년 대한민국학술원 우수학술도서 선정) [링크](https://www.nas.go.kr/info/notice/view.jsp?NP_Code=10000043&NP_DataCode=20000014&NGB_Code=10002922)
+(2021년 대한민국학술원 우수학술도서 선정) [링크](https://www.nas.go.kr/page/597aae5e-21c4-11ec-8e17-001e6746f4e8?ac=view&post=51d18269-4c33-11ec-8e17-001e6746f4e8&bbs_reg=&search_type=&search_text=%EC%9A%B0%EC%88%98%ED%95%99%EC%88%A0&page=1){:target="_blank"}
 
 ## Skills
-* Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API), Docker, ML Ops
+* Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API), Linux, Docker, ML Ops
 
 ## Slides
 #### Paper Review

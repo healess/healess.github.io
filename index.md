@@ -10,9 +10,9 @@ entries_layout: grid
 
 ## Work Experience
 * POSCO ICT - AI Research Engineer (2016.06~Present)
-* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](![Books](https://healess.github.io/assets/image/pivotal.jpg))
+* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](https://healess.github.io/assets/image/pivotal.JPG)
 * POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02) [링크](https://smartfuture-poscoict.co.kr/331)
-* LG CNS - Infra Management (2005.01~2005.02) [링크](![Books](https://healess.github.io/assets/image/lgcns.jpg))
+* LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg)
 
 ## Research Experience
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~Present)
@@ -111,5 +111,5 @@ Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)
 
   
 #### Back To The Basics
-![Books](https://healess.github.io/assets/image/ai_books2.jpg)
+![Books](https://healess.github.io/assets/image/ai-books2.jpg)
 

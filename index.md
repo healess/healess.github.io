@@ -10,9 +10,9 @@ entries_layout: grid
 
 ## Work Experience
 * POSCO ICT - AI Research Engineer (2016.06~Present)
-* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](https://photos.app.goo.gl/DLK3UsKsPhqbJxw1A)
-* POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02)
-* LG CNS - Infra Management (2005.01~2005.02) [링크](https://photos.app.goo.gl/ZMJFrhK6NRko3Fdn6)
+* Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](![Books](https://healess.github.io/assets/image/pivotal.jpg))
+* POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02) [링크](https://smartfuture-poscoict.co.kr/331)
+* LG CNS - Infra Management (2005.01~2005.02) [링크](![Books](https://healess.github.io/assets/image/lgcns.jpg))
 
 ## Research Experience
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~Present)
@@ -65,6 +65,7 @@ entries_layout: grid
 | AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
 | 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
 | 스마트한 미래를 꿈꾸며 신기술을 찾아 나서는 IT 전문가! 포스코ICT 김수상 님(포스코 뉴스룸) | [링크](https://newsroom.posco.com/kr/사람사람들-24편-스마트한-미래를-꿈꾸며-신기술을-찾/)
+| AI Framework, 공개SW개발자대회서 정보통신진흥원장상 수상 | [링크](https://www.poscoict.com/servlet/PoscoictBoard?code=news&lang=kr&mode=view&page=1&seq=4225&find_val=)
 
 ## Software Development
 * Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA)
@@ -110,5 +111,5 @@ Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)
 
   
 #### Back To The Basics
-![Books](https://healess.github.io/assets/image/ai_books.jpg)
+![Books](https://healess.github.io/assets/image/ai_books2.jpg)
 

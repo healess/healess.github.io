@@ -85,6 +85,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers.", TMLR, 2022.](https://healess.github.io/paper/Paper-How-to-train-your-ViT/)
 * ["Improved Multiscale Vision Transformers for Classification and Detection.", arXiv, 2021.](https://healess.github.io/paper/Paper-Improved-Multiscale-Vision-Transformers/)
 * ["TokenLearner: What Can 8 Learned Tokens Do for Images and
 Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)

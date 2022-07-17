@@ -38,7 +38,7 @@ entries_layout: grid
 | 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/){:target="_blank"} |
 | 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.boostcourse.org/ai212){:target="_blank"} |
 | Python과 Tensorflow를 활용한 Al 챗봇 개발 (T아카데미)|[링크](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=120/){:target="_blank"} |
-| POSCO ICT AI Challenge 2020/2021 (Mentor)|[링크](https://aichallenge.poscoict.com/){:target="_blank"} |
+| POSCO ICT AI Challenge 2020/2021/2022 (Mentor)|[링크](https://aichallenge.poscoict.com/){:target="_blank"} |
 | 고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505){:target="_blank"}|
 
 ## Talks
@@ -52,7 +52,7 @@ entries_layout: grid
 | Software 2.0 시대, AI is Everywhere (KAIST) (2021.07)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4){:target="_blank"} |
 | Industry 분야에서의 AI기술 개발 및 적용 방안 (서울여대) (2021.10)|[링크](https://ds.swu.ac.kr/){:target="_blank"} |
 | Industry 분야에서의 AI기술 개발 및 적용 방안 (경기도미래기술캠퍼스) (2021.12)|[링크](http://www.ggmirae.co.kr/course/curriculum/11){:target="_blank"} |
-
+| Challenges in Industrial AI (아주대 대학원 인공지능학과) (2022.07)|[링크](http://www.lecturernews.com/news/articleView.html?idxno=101680){:target="_blank"} |
 
 ## Press
 
@@ -86,7 +86,7 @@ entries_layout: grid
 ## Slides
 #### Paper Review
 * ["How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers.", TMLR, 2022.](https://healess.github.io/paper/Paper-How-to-train-your-ViT/)
-* ["Improved Multiscale Vision Transformers for Classification and Detection.", arXiv, 2021.](https://healess.github.io/paper/Paper-Improved-Multiscale-Vision-Transformers/)
+* ["Improved Multiscale Vision Transformers for Classification and Detection.", CVPR, 2022.](https://healess.github.io/paper/Paper-Improved-Multiscale-Vision-Transformers/)
 * ["TokenLearner: What Can 8 Learned Tokens Do for Images and
 Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)
 * ["Video Swin Transformer.", arXiv, 2021.](https://healess.github.io/paper/Paper-Video-Swin-Transformer/)

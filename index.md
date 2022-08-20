@@ -73,8 +73,16 @@ entries_layout: grid
 * ICT Call for iOS (POSCO ICT 모바일경진대회 대상 (2011) [링크](https://photos.app.goo.gl/zaUT33oWd59aHEni8){:target="_blank"}
 
 ## Patents
-* 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 (METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON) (KAIST)
-* 딥러닝 기반의 얼굴이미지 추출장치(Apparatus for Extracting Face Image Based on Deep Learning) (POSCO ICT)
+* [등록] 딥러닝 기반의 얼굴이미지 추출장치(Apparatus for Extracting Face Image Based on Deep Learning) (POSCO ICT)
+* [등록] 시공간 환경 변화에 따른 안면인식을 위한 안면인식서버 및 안면인식 시스템(Face Recognition Server For Reflecting Space-Time Environment and Face Recognition System Having The Same) (POSCO ICT)
+* [등록] 딥러닝 기반의 얼굴인식모델을 이용하여 실물이미지를 판단할 수 있는 안면인식시스템(Face Recognition System For Real Image Judgment Using Face Recognition Model Based on Deep Learning) (POSCO ICT)
+* [등록] 인증결과를 활용한 안면인식서버 및 안면인식시스템(Server And System for Face Recognition Using The Certification Result) (POSCO ICT)
+* [등록] 얼굴인식용 에지 디바이스(Edge Device for Face Recognition) (POSCO ICT)
+* [등록] 오차감소 알고리즘을 이용하여 얼굴인식모델을 트레이닝시키는 얼굴인식시스템(Face Recognition Service Providing System for Training Face Recognition Model Using Error Reduction Algorithm) (POSCO ICT)
+* [등록] 딥러닝 기반의 얼굴인식모델을 이용하여 특징벡터를 추출하는 얼굴인식시스템(Face Recognition System for Extracting Feature Vector Using Face Recognition Model Based on Deep Learning) (POSCO ICT)
+* [등록] AI 기반의 얼굴인식 시스템(System for Face Recognition Based On AI) (POSCO ICT)
+* [공개] 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 (METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON) (KAIST)
+
 
 ## Book
 * 한국산업의 혁신전략 (안면인식 기술로 살펴본 AI 경쟁력 확보 방안) - 율곡출판사 

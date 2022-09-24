@@ -93,6 +93,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["Relational Self-Attention: What’s Missing in Attention for Video Understanding," NeurIPS, 2021.](https://healess.github.io/assets/pdf/[Paper]RSA.pdf)
 * ["How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers.", TMLR, 2022.](https://healess.github.io/paper/Paper-How-to-train-your-ViT/)
 * ["Improved Multiscale Vision Transformers for Classification and Detection.", CVPR, 2022.](https://healess.github.io/paper/Paper-Improved-Multiscale-Vision-Transformers/)
 * ["TokenLearner: What Can 8 Learned Tokens Do for Images and

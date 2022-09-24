@@ -15,7 +15,8 @@ entries_layout: grid
 * LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg){:target="_blank"}
 
 ## Research Experience
-* Efficient Action Recognition (POSTECH CVLab) (2020.03~Present)
+* Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D Program) (2022.09~Present)
+* Efficient Action Recognition (POSTECH CVLab) (2020.03~2022.08)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab) (2019.01~2019.12)
 * Predicting Early-Stage Dementia Through Language Model (KAIST AI)
 * A Study on the Securing AI Competitiveness of Domestic Company : Focused on Facial Recognition and SenseTime in China (KAIST I&TM)
@@ -58,7 +59,8 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
-| 포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/)
+| 포스코ICT, '2022 AI 유스 챌린지' 시상···과기정통부장관상에 '코뿔소팀'(전자신문)|[링크](https://www.etnews.com/20220825000094) |
+| 포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/) |
 | 중고생 AI 대회…“톡톡 튀는 아이디어에 현장 기술을”(KBS) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010888301) |
 | 안면인식 정확도 99.9%… 온라인시험·출퇴근 관리 딱(디지털타임즈) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002605641) |
 |코로나19, 비대면·비접촉으로 이긴다!(KBS)|[링크](https://www.youtube.com/watch?v=sULRv0IwnhQ)|
@@ -81,7 +83,7 @@ entries_layout: grid
 * [등록] 오차감소 알고리즘을 이용하여 얼굴인식모델을 트레이닝시키는 얼굴인식시스템(Face Recognition Service Providing System for Training Face Recognition Model Using Error Reduction Algorithm) (POSCO ICT)
 * [등록] 딥러닝 기반의 얼굴인식모델을 이용하여 특징벡터를 추출하는 얼굴인식시스템(Face Recognition System for Extracting Feature Vector Using Face Recognition Model Based on Deep Learning) (POSCO ICT)
 * [등록] AI 기반의 얼굴인식 시스템(System for Face Recognition Based On AI) (POSCO ICT)
-* [공개] 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 (METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON) (KAIST)
+* [등록] 실제 사람의 말투와 문체를 흉내 내는 대화 방법 및 시스템 (METHOD AND SYSTEM FOR MIMICKING TONE AND STYLE OF REAL PERSON) (KAIST)
 
 
 ## Book

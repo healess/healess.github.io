@@ -15,7 +15,7 @@ entries_layout: grid
 * LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg){:target="_blank"}
 
 ## Research Experience
-* Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D Program) (2022.09~Present)
+* Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D. Program) (2022.09~Present)
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~2022.08)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab) (2019.01~2019.12)
 * Predicting Early-Stage Dementia Through Language Model (KAIST AI)
@@ -95,6 +95,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model," NeurIPS, 2020.](https://healess.github.io/assets/pdf/[Paper]SLAC.pdf)
 * ["Relational Self-Attention: What’s Missing in Attention for Video Understanding," NeurIPS, 2021.](https://healess.github.io/assets/pdf/[Paper]RSA.pdf)
 * ["How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers.", TMLR, 2022.](https://healess.github.io/paper/Paper-How-to-train-your-ViT/)
 * ["Improved Multiscale Vision Transformers for Classification and Detection.", CVPR, 2022.](https://healess.github.io/paper/Paper-Improved-Multiscale-Vision-Transformers/)

@@ -18,11 +18,11 @@ entries_layout: grid
 * Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D. Program) (2022.09~Present)
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~2022.08)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab) (2019.01~2019.12)
-* Predicting Early-Stage Dementia Through Language Model (KAIST AI)
+* Predicting Early-Stage Dementia Through Language Model (KAIST AI) [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100009334){:target="_blank"}
 * A Study on the Securing AI Competitiveness of Domestic Company : Focused on Facial Recognition and SenseTime in China (KAIST I&TM)
 
 ## Projects
-* Vision AI (Action Recognition, Face Recognition, Object Detection, Pose Estimation, Model Compression, AutoML) (2017~Present)
+* Vision AI (3D Vision, Action Recognition, Face Recognition, Pose Estimation, Model Compression, AutoML) (2017~Present)
 * POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
 * KISA Certification (Face Recognition 2018, Intelligence CCTV 2021) [링크](https://smartfuture-poscoict.co.kr/451){:target="_blank"}
 

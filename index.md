@@ -96,9 +96,10 @@ entries_layout: grid
 ## Slides
 #### Paper Review
 * ["Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations 
-Vary with Width and Depth," ICLR, 2021.](https://healess.github.io/assets/pdf/[Paper]DoWideandDeep.pdf)
-* ["Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model," NeurIPS, 2020.](https://healess.github.io/assets/pdf/[Paper]SLAC.pdf)
-* ["Relational Self-Attention: What’s Missing in Attention for Video Understanding," NeurIPS, 2021.](https://healess.github.io/assets/pdf/[Paper]RSA.pdf)
+Vary with Width and Depth.", ICLR, 2021.](https://healess.github.io/assets/pdf/[Paper]DoWideandDeep.pdf)
+* ["Offline Reinforcement Learning:From Algorithms to Practical Challenges", NeurIPS Tutorial, 2020](https://healess.github.io/assets/pdf/[Tutorial]OfflRL.pdf)
+* ["Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model.", NeurIPS, 2020.](https://healess.github.io/assets/pdf/[Paper]SLAC.pdf)
+* ["Relational Self-Attention: What’s Missing in Attention for Video Understanding.", NeurIPS, 2021.](https://healess.github.io/assets/pdf/[Paper]RSA.pdf)
 * ["How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers.", TMLR, 2022.](https://healess.github.io/paper/Paper-How-to-train-your-ViT/)
 * ["Improved Multiscale Vision Transformers for Classification and Detection.", CVPR, 2022.](https://healess.github.io/paper/Paper-Improved-Multiscale-Vision-Transformers/)
 * ["TokenLearner: What Can 8 Learned Tokens Do for Images and

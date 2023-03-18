@@ -15,6 +15,7 @@ entries_layout: grid
 * LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg){:target="_blank"}
 
 ## Research Experience
+* 3D Reconstruction and Recognition (POSTECH CGLab) (2023.03~Present)
 * Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D. Program) (2022.09~Present)
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~2022.08)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab) (2019.01~2019.12)
@@ -47,6 +48,7 @@ entries_layout: grid
 | Title | URL |
 | :------------ | ------------: |
 | Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.08) | [자료](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot){:target="_blank"} |
+| Deep Learning 실무에 어떻게 적용할 수 있을까? (포스코 ICT) (2019.07)| |
 | [웨비나] 딥러닝을 활용한 AI 영상분석의 진화 (2020.11)| [링크](https://youtu.be/oe937gzXn44){:target="_blank"} |
 | 딥러닝 기반 안면인식 개발과 적용방안 (한국미래기술교육연구원) (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563) |
 | 성남시 청년 AI 프리인턴십 강의 (2021.05)|[링크](http://www.m-i.kr/news/articleView.html?idxno=824891){:target="_blank"}
@@ -54,11 +56,15 @@ entries_layout: grid
 | Industry 분야에서의 AI기술 개발 및 적용 방안 (서울여대) (2021.10)|[링크](https://ds.swu.ac.kr/){:target="_blank"} |
 | Industry 분야에서의 AI기술 개발 및 적용 방안 (경기도미래기술캠퍼스) (2021.12)|[링크](http://www.ggmirae.co.kr/course/curriculum/11){:target="_blank"} |
 | Challenges in Industrial AI (아주대 대학원 인공지능학과) (2022.07)|[링크](http://www.lecturernews.com/news/articleView.html?idxno=101680){:target="_blank"} |
+| 초거대 AI로 시작되는 Software 3.0시대 (포스코 ICT) (2023.02)| |
+| ChatGPT로 시작되는 초거대 AI시대 (포스코 퓨처엠) (2023.03)| |
+
 
 ## Press
 
 | Title | URL |
 | :------------ | ------------: |
+| [인공지능과 디지털 트윈Ⅰ] 디지털 트윈을 향한 디딤돌, 인공지능 영상 기술(헬로티)|[링크](https://www.hellot.net/news/article.html?no=58170) |
 | 포스코ICT, '2022 AI 유스 챌린지' 시상···과기정통부장관상에 '코뿔소팀'(전자신문)|[링크](https://www.etnews.com/20220825000094) |
 | 포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/) |
 | 중고생 AI 대회…“톡톡 튀는 아이디어에 현장 기술을”(KBS) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010888301) |

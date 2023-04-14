@@ -9,7 +9,7 @@ entries_layout: grid
 <!-- # My Profile -->
 
 ## Work Experience
-* POSCO ICT - AI Research Engineer (2016.06~Present)
+* POSCO DX - AI Research Engineer (2016.06~Present)
 * Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](https://healess.github.io/assets/image/pivotal.JPG){:target="_blank"}
 * POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02) [링크](https://smartfuture-poscoict.co.kr/331){:target="_blank"}
 * LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg){:target="_blank"}
@@ -20,10 +20,9 @@ entries_layout: grid
 * Efficient Action Recognition (POSTECH CVLab) (2020.03~2022.08)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab) (2019.01~2019.12)
 * Predicting Early-Stage Dementia Through Language Model (KAIST AI) [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100009334){:target="_blank"}
-* A Study on the Securing AI Competitiveness of Domestic Company : Focused on Facial Recognition and SenseTime in China (KAIST I&TM)
 
 ## Projects
-* Vision AI (3D Vision, Action Recognition, Face Recognition, Pose Estimation, Model Compression, AutoML) (2017~Present)
+* Vision AI (3D Vision, On device AI, Action Recognition, Face Recognition, Pose Estimation, Model Compression, AutoML) (2017~Present)
 * POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
 * KISA Certification (Face Recognition 2018, Intelligence CCTV 2021) [링크](https://smartfuture-poscoict.co.kr/451){:target="_blank"}
 
@@ -64,6 +63,7 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
+| 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
 | [인공지능과 디지털 트윈Ⅰ] 디지털 트윈을 향한 디딤돌, 인공지능 영상 기술(헬로티)|[링크](https://www.hellot.net/news/article.html?no=58170) |
 | 포스코ICT, '2022 AI 유스 챌린지' 시상···과기정통부장관상에 '코뿔소팀'(전자신문)|[링크](https://www.etnews.com/20220825000094) |
 | 포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/) |
@@ -97,7 +97,7 @@ entries_layout: grid
 (2021년 대한민국학술원 우수학술도서 선정) [링크](https://www.nas.go.kr/page/597aae5e-21c4-11ec-8e17-001e6746f4e8?ac=view&post=51d18269-4c33-11ec-8e17-001e6746f4e8&bbs_reg=&search_type=&search_text=%EC%9A%B0%EC%88%98%ED%95%99%EC%88%A0&page=1){:target="_blank"}
 
 ## Skills
-* Python, Java, Javascript(Vanilla,React), Objective-C, Android, C++(TF API), Linux, Docker, ML Ops
+* Python, PyTorch, TensorFlow, Java, Javascript(React), Objective-C, Android, C++(TF API), Linux, Docker, MLOps
 
 ## Slides
 #### Paper Review

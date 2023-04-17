@@ -64,6 +64,7 @@ entries_layout: grid
 | Title | URL |
 | :------------ | ------------: |
 | 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
+| 스마트 통합안전솔루션 관심(연합뉴스)|[링크](https://n.news.naver.com/mnews/article/001/0013515094?sid=105) |
 | [인공지능과 디지털 트윈Ⅰ] 디지털 트윈을 향한 디딤돌, 인공지능 영상 기술(헬로티)|[링크](https://www.hellot.net/news/article.html?no=58170) |
 | 포스코ICT, '2022 AI 유스 챌린지' 시상···과기정통부장관상에 '코뿔소팀'(전자신문)|[링크](https://www.etnews.com/20220825000094) |
 | 포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/) |

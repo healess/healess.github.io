@@ -103,6 +103,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["MetaFormer Is Actually What You Need for Vision.", CVPR, 2022(Oral).](https://healess.github.io/assets/pdf/[Paper]MetaFormer.pdf)
 * ["Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition
 .", ECCV, 2022.](https://healess.github.io/assets/pdf/[Paper]TPS.pdf)
 * ["Improved Multiscale Vision Transformers for Classification and Detection.", CVPR, 2022.](https://healess.github.io/paper/Paper-Improved-Multiscale-Vision-Transformers/)

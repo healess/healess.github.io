@@ -28,9 +28,10 @@ entries_layout: grid
 
 ## Honors & Award
 * 제11회 공개SW개발자 대회 금상 (과학기술정보통신부 주최) (2017.12) [링크](https://www.oss.kr/dev_competition_activities/show/a0f60bdb-d64d-4bd7-8c6b-8a9df7d2647f){:target="_blank"}
-* 2019 T아카데미 AWARD 딥러닝 부분 Top 11 [링크](https://tacademy.skplanet.com/front/customer/viewNotice.action?seq=735&topYn=N){:target="_blank"} 
-* Highest Honor(Spring semester of 2019) / High Honor(2020) (KAIST)
-* 2018년 올해의 포스코ICT人 [링크](https://smartfuture-poscoict.co.kr/428){:target="_blank"}
+* 2019 T아카데미 AWARD 온라인 강의 딥러닝 부분 Top 11 [링크](https://tacademy.skplanet.com/front/customer/viewNotice.action?seq=735&topYn=N){:target="_blank"} 
+* Highest Honor / High Honor (KAIST)
+* 2017년 올해의 포스코ICT人 [링크](https://poscoictblog.tistory.com/428){:target="_blank"}
+* Smart Phone 경진대회 대상 (POSCO ICT) [링크](https://healess.github.io/assets/image/smart-idea.JPG){:target="_blank"}
 
 ## Lecture
 
@@ -40,7 +41,7 @@ entries_layout: grid
 | 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.boostcourse.org/ai212){:target="_blank"} |
 | Python과 Tensorflow를 활용한 Al 챗봇 개발 (T아카데미)|[링크](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=120/){:target="_blank"} |
 | POSCO ICT AI Challenge 2020/2021/2022 (Mentor)|[링크](https://aichallenge.poscoict.com/){:target="_blank"} |
-| 고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://smartfuture-poscoict.co.kr/505){:target="_blank"}|
+| 고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://poscoictblog.tistory.com/505){:target="_blank"}|
 
 ## Talks
 
@@ -63,6 +64,9 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
+| 컴퓨터비전학회 KCCV 2023, 학계·기업 참여 역대 최대(e4ds)|[링크](https://www.e4ds.com/sub_view.asp?ch=31&t=0&idx=17354) |
+| 포스코그룹 AI 전문가 다 모였다…'포스코DX AI 개발자 콘퍼런스' 성료(NEWSIS)|[링크](https://n.news.naver.com/mnews/article/003/0011999475?sid=105) |
+| 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
 | 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
 | 공장 품질 감시하던 ‘비전 AI’, 억울한 동물 살핀다(서울경제)|[링크](https://n.news.naver.com/mnews/article/011/0004172565?sid=105) |
 | 스마트 통합안전솔루션 관심(연합뉴스)|[링크](https://n.news.naver.com/mnews/article/001/0013515094?sid=105) |
@@ -99,10 +103,13 @@ entries_layout: grid
 (2021년 대한민국학술원 우수학술도서 선정) [링크](https://www.nas.go.kr/page/597aae5e-21c4-11ec-8e17-001e6746f4e8?ac=view&post=51d18269-4c33-11ec-8e17-001e6746f4e8&bbs_reg=&search_type=&search_text=%EC%9A%B0%EC%88%98%ED%95%99%EC%88%A0&page=1){:target="_blank"}
 
 ## Skills
-* Python, PyTorch, TensorFlow, Java, Javascript(React), Objective-C, Android, C++(TF API), Linux, Docker, MLOps
+* Python, PyTorch, TensorFlow, Java, Javascript(React), Objective-C, Android, C++(TF API), Linux, Docker, MLOps, Agile
 
 ## Slides
 #### Paper Review
+* "What Makes for Good Tokenizers in Vision Transformer?", TPAMI, 2022.
+* ["Inception Transformer.", NeurIPS, 2022(Oral).](https://healess.github.io/assets/pdf/[Paper]InceptionTransformer.pdf)
+* ["EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks.", EMNLP, 2019.](https://healess.github.io/assets/pdf/[Paper]EDA.pdf)
 * ["MetaFormer Is Actually What You Need for Vision.", CVPR, 2022(Oral).](https://healess.github.io/assets/pdf/[Paper]MetaFormer.pdf)
 * ["Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition
 .", ECCV, 2022.](https://healess.github.io/assets/pdf/[Paper]TPS.pdf)
@@ -125,7 +132,6 @@ Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)
 * ["GroupFace: Learning Latent Groups and Constructing Group-based Representations for Face Recognition.", CVPR, 2020.](https://www.slideshare.net/healess/groupface-face-recognition)
 * ["Long-Term Feature Banks for Detailed Video Understanding.", CVPR, 2019.](https://www.slideshare.net/healess/long-term-feature-banks-for-detailed-video-understanding-action-recognition)
 * ["Learning Video Representations from Correspondence Proposals.", CVPR, 2019(Oral).](https://www.slideshare.net/healess/paper-learning-video-representations-from-correspondence-proposals)
-* ["EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks.", EMNLP, 2019.](https://www.slideshare.net/healess/paper-eda-easy-data-augmentation-techniques-for-boosting-performance-on-text-classification-tasks)
 * ["AutoML Part 1 : Bayesian Optimization, AMC, Auto Augmentation, Active Learning"](https://www.slideshare.net/healess/paper-auto-ml-part-1)
 * ["eXplainable AI (XAI) : CAM, Grad-CAM,ABN(Attention Branch Network).", CVPR, 2019.](https://www.slideshare.net/healess/paper-explainable-aixai-in-computer-vision)
 * ["Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision", CVPR, 2018.](https://www.slideshare.net/healess/paper-anti-spoofing-for-face-recognition)

@@ -107,7 +107,8 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
-* ["What Makes for Good Tokenizers in Vision Transformer?", TPAMI, 2022.](https://healess.github.io/assets/pdf/[Paper]MoTo.pdf)
+* ["FLIP: Cross-domain Face Anti-spoofing with Language Guidance", ICCV, 2023.](https://healess.github.io/assets/pdf/[Paper]FLIP.pdf)
+* * ["What Makes for Good Tokenizers in Vision Transformer?", TPAMI, 2022.](https://healess.github.io/assets/pdf/[Paper]MoTo.pdf)
 * ["Inception Transformer.", NeurIPS, 2022(Oral).](https://healess.github.io/assets/pdf/[Paper]InceptionTransformer.pdf)
 * ["EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks.", EMNLP, 2019.](https://healess.github.io/assets/pdf/[Paper]EDA.pdf)
 * ["MetaFormer Is Actually What You Need for Vision.", CVPR, 2022(Oral).](https://healess.github.io/assets/pdf/[Paper]MetaFormer.pdf)
@@ -143,6 +144,6 @@ Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)
 * Memory Networks, End-To-End Memory Networks, Dynamic Memory Networks 
 
   
-#### Back To The Basics
+#### Back To The Basics (Recommended books)
 ![Books](https://healess.github.io/assets/image/ai-books2.jpg)
 

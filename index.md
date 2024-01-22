@@ -58,12 +58,14 @@ entries_layout: grid
 | Challenges in Industrial AI (아주대 대학원 인공지능학과) (2022.07)|[링크](http://www.lecturernews.com/news/articleView.html?idxno=101680){:target="_blank"} |
 | 초거대 AI로 시작되는 Software 3.0시대 (포스코 ICT) (2023.02)| |
 | ChatGPT로 시작되는 초거대 AI시대 (포스코 퓨처엠) (2023.03)| |
+| 컴퓨터 비전과 딥러닝 최신 동향 및 적용 사례 (한동대) (2023.10) |
 
 
 ## Press
 
 | Title | URL |
 | :------------ | ------------: |
+| 국립공원 '야생동물 로드킬' 예방 시스템 도입(KTV국민방송)|[링크](https://www.ktv.go.kr/content/view?content_id=688247) |
 | 컴퓨터비전학회 KCCV 2023, 학계·기업 참여 역대 최대(e4ds)|[링크](https://www.e4ds.com/sub_view.asp?ch=31&t=0&idx=17354) |
 | 포스코그룹 AI 전문가 다 모였다…'포스코DX AI 개발자 콘퍼런스' 성료(NEWSIS)|[링크](https://n.news.naver.com/mnews/article/003/0011999475?sid=105) |
 | 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
@@ -108,7 +110,7 @@ entries_layout: grid
 ## Slides
 #### Paper Review
 * ["FLIP: Cross-domain Face Anti-spoofing with Language Guidance", ICCV, 2023.](https://healess.github.io/assets/pdf/[Paper]FLIP.pdf)
-* * ["What Makes for Good Tokenizers in Vision Transformer?", TPAMI, 2022.](https://healess.github.io/assets/pdf/[Paper]MoTo.pdf)
+* ["What Makes for Good Tokenizers in Vision Transformer?", TPAMI, 2022.](https://healess.github.io/assets/pdf/[Paper]MoTo.pdf)
 * ["Inception Transformer.", NeurIPS, 2022(Oral).](https://healess.github.io/assets/pdf/[Paper]InceptionTransformer.pdf)
 * ["EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks.", EMNLP, 2019.](https://healess.github.io/assets/pdf/[Paper]EDA.pdf)
 * ["MetaFormer Is Actually What You Need for Vision.", CVPR, 2022(Oral).](https://healess.github.io/assets/pdf/[Paper]MetaFormer.pdf)

@@ -22,8 +22,8 @@ entries_layout: grid
 * Predicting Early-Stage Dementia Through Language Model (KAIST AI) [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100009334){:target="_blank"}
 
 ## Projects
-* Vision AI (3D Vision, On device AI, Action Recognition, Face Recognition, Pose Estimation, Model Compression, AutoML) (2017~Present)
-* POSCO AI ChatBot (Before Transformers : Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
+* Vision AI (3D Vision, Action Recognition, Face Recognition, Pose Estimation, Model Compression, On device AI, AutoML) (2017~Present)
+* POSCO AI ChatBot (Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
 * KISA Certification (Face Recognition 2018, Intelligence CCTV 2021) [링크](https://smartfuture-poscoict.co.kr/451){:target="_blank"}
 
 ## Honors & Award
@@ -65,10 +65,13 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
+| 포스코DX, 2024 스마트공장·자동화 산업전 참가(머니투데이)|[링크](https://n.news.naver.com/mnews/article/008/0005017662?sid=105) |
+| 포스코DX, AI자율시스템 개발...본격 사업화(한국경제TV뉴스)|[링크](https://youtu.be/X9yZdejoZwo?si=nGC0grP1pu3jJyEm) |
+| 포스코DX '산업용 AI 미디어' 개최···"Industrial AI 전문 기업으로 성장 할 것"(뉴스웨이)|[링크](https://www.newsway.co.kr/news/view?ud=2024030612023093659) |
+| 포스코DX, 한진 대전 메가허브에 AI 활용한 물류자동화 시스템 구축(서울경제)|[링크](https://n.news.naver.com/article/011/0004301976?sid=105) |
 | 국립공원 '야생동물 로드킬' 예방 시스템 도입(KTV국민방송)|[링크](https://www.ktv.go.kr/content/view?content_id=688247) |
 | 컴퓨터비전학회 KCCV 2023, 학계·기업 참여 역대 최대(e4ds)|[링크](https://www.e4ds.com/sub_view.asp?ch=31&t=0&idx=17354) |
 | 포스코그룹 AI 전문가 다 모였다…'포스코DX AI 개발자 콘퍼런스' 성료(NEWSIS)|[링크](https://n.news.naver.com/mnews/article/003/0011999475?sid=105) |
-| 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
 | 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
 | 공장 품질 감시하던 ‘비전 AI’, 억울한 동물 살핀다(서울경제)|[링크](https://n.news.naver.com/mnews/article/011/0004172565?sid=105) |
 | 스마트 통합안전솔루션 관심(연합뉴스)|[링크](https://n.news.naver.com/mnews/article/001/0013515094?sid=105) |

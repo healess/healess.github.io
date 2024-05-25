@@ -112,6 +112,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["InceptionNeXt: When Inception Meets ConvNeXt", CVPR, 2024.](https://healess.github.io/assets/pdf/[Paper]InceptionNeXt.pdf)
 * ["CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing", CVPR, 2024.](https://healess.github.io/assets/pdf/[Paper]CFPL.pdf)
 * ["FLIP: Cross-domain Face Anti-spoofing with Language Guidance", ICCV, 2023.](https://healess.github.io/assets/pdf/[Paper]FLIP.pdf)
 * ["What Makes for Good Tokenizers in Vision Transformer?", TPAMI, 2022.](https://healess.github.io/assets/pdf/[Paper]MoTo.pdf)

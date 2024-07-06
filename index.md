@@ -58,9 +58,10 @@ entries_layout: grid
 | Challenges in Industrial AI (아주대 대학원 인공지능학과) (2022.07)|[링크](http://www.lecturernews.com/news/articleView.html?idxno=101680){:target="_blank"} |
 | 초거대 AI로 시작되는 Software 3.0시대 (포스코 ICT) (2023.02)| |
 | ChatGPT로 시작되는 초거대 AI시대 (포스코 퓨처엠) (2023.03)| |
-| 컴퓨터 비전과 딥러닝 최신 동향 및 적용 사례 (한동대) (2023.10) |[링크](https://healess.github.io/assets/image/handong.jpg){:target="_blank"}
-| Challenges in industrial AI  (한양대 ERICA ICT융합학부) (2024.04) |[링크](https://healess.github.io/assets/image/ERICA.jpg){:target="_blank"}
-| 자율 공장을 위한 산업 AI 트랜드 (대구디지털혁신진흥원) (2024.07) |[링크](https://youtu.be/UpfYMFTlhKE?si=4SFgLPkd_quorpkZ&t=2541){:target="_blank"}
+| 컴퓨터 비전과 딥러닝 최신 동향 및 적용 사례 (한동대) (2023.10) |[링크](https://healess.github.io/assets/image/handong.jpg){:target="_blank"} |
+| Challenges in industrial AI  (한양대 ERICA ICT융합학부) (2024.04) |[링크](https://healess.github.io/assets/image/ERICA.jpg){:target="_blank"} |
+| 자율 공장을 위한 산업 AI 트랜드 (대구디지털혁신진흥원) (2024.07) |[링크](https://youtu.be/UpfYMFTlhKE?si=4SFgLPkd_quorpkZ&t=2541){:target="_blank"} |
+
 ## Press
 
 | Title | URL |

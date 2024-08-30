@@ -28,7 +28,7 @@ entries_layout: grid
 
 ## Honors & Award
 * 제11회 공개SW개발자 대회 금상 (과학기술정보통신부 주최) (2017.12) [링크](https://www.oss.kr/dev_competition_activities/show/a0f60bdb-d64d-4bd7-8c6b-8a9df7d2647f){:target="_blank"}
-* 2019 T아카데미 AWARD 온라인 강의 딥러닝 부분 Top 11 [링크](https://tacademy.skplanet.com/front/customer/viewNotice.action?seq=735&topYn=N){:target="_blank"} 
+* 2019 T아카데미 AWARD 온라인 강의 딥러닝 부분 Top 11 [링크](https://tacademy.skplanet.com/front/customer/viewNotice.do?seq=735&topYn=N){:target="_blank"} 
 * Highest Honor / High Honor (KAIST)
 * 2017년 올해의 포스코ICT人 [링크](https://poscoictblog.tistory.com/428){:target="_blank"}
 * Smart Phone 경진대회 대상 (POSCO ICT) [링크](https://healess.github.io/assets/image/smart-idea.JPG){:target="_blank"}

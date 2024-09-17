@@ -40,7 +40,7 @@ entries_layout: grid
 | 모두를 위한 딥러닝 시즌 2 | [링크](https://deeplearningzerotoall.github.io/season2/){:target="_blank"} |
 | 텐서플로우로 시작하는 딥러닝 기초 (네이버 커넥트재단) | [링크](https://www.boostcourse.org/ai212){:target="_blank"} |
 | Python과 Tensorflow를 활용한 Al 챗봇 개발 (T아카데미)|[링크](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=120/){:target="_blank"} |
-| POSCO ICT AI Challenge 2020/2021/2022 (Mentor)|[링크](https://aichallenge.poscoict.com/){:target="_blank"} |
+| POSCO ICT AI Challenge 2020/2021/2022/2023/2024 (Mentor)|[링크](https://aichallenge.poscoict.com/){:target="_blank"} |
 | 고교 대상 AI강의 봉사 활동(양영디지털고) |[링크](https://poscoictblog.tistory.com/505){:target="_blank"}|
 
 ## Talks
@@ -113,6 +113,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models", CVPR, 2024(Highlight).](https://healess.github.io/assets/pdf/[Paper]Monkey.pdf)
 * ["InceptionNeXt: When Inception Meets ConvNeXt", CVPR, 2024.](https://healess.github.io/assets/pdf/[Paper]InceptionNeXt.pdf)
 * ["CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing", CVPR, 2024.](https://healess.github.io/assets/pdf/[Paper]CFPL.pdf)
 * ["FLIP: Cross-domain Face Anti-spoofing with Language Guidance", ICCV, 2023.](https://healess.github.io/assets/pdf/[Paper]FLIP.pdf)
@@ -150,8 +151,3 @@ Videos?.", NeurIPS, 2021.](https://healess.github.io/paper/Paper-TokenLearner/)
 * ["Effective Approaches to Attention-based Neural Machine Translation.", EMNLP, 2015.](https://www.slideshare.net/healess/paper-attention-mechanismluong)
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 * Memory Networks, End-To-End Memory Networks, Dynamic Memory Networks 
-
-  
-#### Back To The Basics (Recommended books)
-![Books](https://healess.github.io/assets/image/ai-books2.jpg)
-

@@ -51,16 +51,15 @@ entries_layout: grid
 | 자율 공장을 위한 산업 AI 트랜드 (대구디지털혁신진흥원) (2024.07) |[링크](https://youtu.be/UpfYMFTlhKE?si=4SFgLPkd_quorpkZ&t=2541){:target="_blank"} |
 | Challenges in industrial AI  (한양대 ERICA ICT융합학부) (2024.04) |[링크](https://healess.github.io/assets/image/ERICA.jpg){:target="_blank"} |
 | 컴퓨터 비전과 딥러닝 최신 동향 및 적용 사례 (한동대) (2023.10) |[링크](https://healess.github.io/assets/image/handong.jpg){:target="_blank"} |
-| ChatGPT로 시작되는 초거대 AI시대 (포스코 퓨처엠) (2023.03)| |
-| 초거대 AI로 시작되는 Software 3.0시대 (포스코 ICT) (2023.02)| |
 | Challenges in Industrial AI (아주대 대학원 인공지능학과) (2022.07)|[링크](http://www.lecturernews.com/news/articleView.html?idxno=101680){:target="_blank"} |
 | Industry 분야에서의 AI기술 개발 및 적용 방안 (경기도미래기술캠퍼스) (2021.12)|[링크](http://www.ggmirae.co.kr/course/curriculum/11){:target="_blank"} |
 | Industry 분야에서의 AI기술 개발 및 적용 방안 (서울여대) (2021.10)|[링크](https://ds.swu.ac.kr/){:target="_blank"} |
 | Software 2.0 시대, AI is Everywhere (KAIST) (2021.07)|[링크](https://itm2.kaist.ac.kr/board/board.php?bo_table=forums&idx=4){:target="_blank"} |
 | 성남시 청년 AI 프리인턴십 강의 (2021.05)|[링크](http://www.m-i.kr/news/articleView.html?idxno=824891){:target="_blank"}
-| 딥러닝 기반 안면인식 개발과 적용방안 (한국미래기술교육연구원) (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563) |
+| 딥러닝 기반 안면인식 개발과 적용방안 (한국미래기술교육연구원) (2020.06.12) | [링크](http://www.newsway.co.kr/news/view?tp=1&ud=2020051909563803563){:target="_blank"} |
 | [웨비나] 딥러닝을 활용한 AI 영상분석의 진화 (2020.11)| [링크](https://youtu.be/oe937gzXn44){:target="_blank"} |
 | Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용 (SK Planet) (2017.08) | [자료](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot){:target="_blank"} |
+
 ## Press
 
 | Title | URL |

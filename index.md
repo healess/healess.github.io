@@ -47,7 +47,7 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
-| Challenges in industrial AI  (경북대 컴퓨터학부) (2024.10) |[링크]([https://healess.github.io/assets/image/ERICA.jpg](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_4&wr_id=316&sca=)){:target="_blank"} |
+| Challenges in industrial AI  (경북대 컴퓨터학부) (2024.10) |[링크](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_4&wr_id=316&sca=){:target="_blank"} |
 | 자율 공장을 위한 산업 AI 트랜드 (대구디지털혁신진흥원) (2024.07) |[링크](https://youtu.be/UpfYMFTlhKE?si=4SFgLPkd_quorpkZ&t=2541){:target="_blank"} |
 | Challenges in industrial AI  (한양대 ERICA ICT융합학부) (2024.04) |[링크](https://healess.github.io/assets/image/ERICA.jpg){:target="_blank"} |
 | 컴퓨터 비전과 딥러닝 최신 동향 및 적용 사례 (한동대) (2023.10) |[링크](https://healess.github.io/assets/image/handong.jpg){:target="_blank"} |
@@ -114,7 +114,7 @@ entries_layout: grid
 #### Paper Review
 * ["Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models", CVPR, 2024(Highlight).](https://healess.github.io/assets/pdf/[Paper]Monkey.pdf)
 * ["InceptionNeXt: When Inception Meets ConvNeXt", CVPR, 2024.](https://healess.github.io/assets/pdf/[Paper]InceptionNeXt.pdf)
-* ["CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing", CVPR, 2024.](https://healess.github.io/assets/pdf/[Paper]CFPL.pdf)
+* ["CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing", CVPR, 2024(Highlight).](https://healess.github.io/assets/pdf/[Paper]CFPL.pdf)
 * ["FLIP: Cross-domain Face Anti-spoofing with Language Guidance", ICCV, 2023.](https://healess.github.io/assets/pdf/[Paper]FLIP.pdf)
 * ["What Makes for Good Tokenizers in Vision Transformer?", TPAMI, 2022.](https://healess.github.io/assets/pdf/[Paper]MoTo.pdf)
 * ["Inception Transformer.", NeurIPS, 2022(Oral).](https://healess.github.io/assets/pdf/[Paper]InceptionTransformer.pdf)

@@ -15,10 +15,11 @@ entries_layout: grid
 * LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg){:target="_blank"}
 
 ## Research Experience
-* 3D Reconstruction and Recognition (POSTECH CGLab) (2023.03~Present)
 * Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D. Candidate) (2022.09~Present)
-* Efficient Action Recognition (POSTECH CVLab) (2020.03~2022.08)
-* Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab) (2019.01~2019.12)
+  * MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers, [arXiv](https://arxiv.org/pdf/2411.18995)
+* 3D Reconstruction and Recognition (POSTECH CGLab - Prof. Seungyong Lee) (2023.03~2024.07)
+* Efficient Action Recognition (POSTECH CVLab - Prof. Minsu Cho) (2020.03~2022.08)
+* Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab - Prof. Daejin Kim) (2019.01~2019.12)
 * Predicting Early-Stage Dementia Through Language Model (KAIST AI) [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100009334){:target="_blank"}
 
 ## Projects
@@ -111,6 +112,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation", ICLR, 2024.](https://healess.github.io/assets/pdf/[Paper]Sign2GPT.pdf)
 * ["Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models", CVPR, 2024(Highlight).](https://healess.github.io/assets/pdf/[Paper]Monkey.pdf)
 * ["InceptionNeXt: When Inception Meets ConvNeXt", CVPR, 2024.](https://healess.github.io/assets/pdf/[Paper]InceptionNeXt.pdf)
 * ["CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing", CVPR, 2024(Highlight).](https://healess.github.io/assets/pdf/[Paper]CFPL.pdf)

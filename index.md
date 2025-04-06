@@ -23,7 +23,8 @@ entries_layout: grid
 * Predicting Early-Stage Dementia Through Language Model (KAIST AI) [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100009334){:target="_blank"}
 
 ## Projects
-* Vision AI (3D Vision, Action Recognition, Face Recognition, Pose Estimation, Model Compression, On device AI, AutoML) (2017~Present)
+* Spatial Intelligence for Physical AI (3D Vision, Perception, Sencor Fusion, Multimodal learning), NPU (2024~Present)
+* Vision AI (2D Vision, Action Recognition, Face Recognition, Model Compression, On device AI, AutoML) (2017~2023)
 * POSCO AI ChatBot (Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
 * KISA Certification (Face Recognition 2018, Intelligence CCTV 2021) [링크](https://smartfuture-poscoict.co.kr/451){:target="_blank"}
 
@@ -65,6 +66,7 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
+| 포스코DX, 산업현장에 특화된 ‘피지컬 AI’ 현장 적용 추진(헤럴드경제)|[링크](https://naver.me/5ZJZv721) |
 | 포스코DX, 2024 스마트공장·자동화 산업전 참가(머니투데이)|[링크](https://n.news.naver.com/mnews/article/008/0005017662?sid=105) |
 | 포스코DX, AI자율시스템 개발...본격 사업화(한국경제TV뉴스)|[링크](https://youtu.be/X9yZdejoZwo?si=nGC0grP1pu3jJyEm) |
 | 포스코DX '산업용 AI 미디어' 개최···"Industrial AI 전문 기업으로 성장 할 것"(뉴스웨이)|[링크](https://www.newsway.co.kr/news/view?ud=2024030612023093659) |
@@ -112,6 +114,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving", ICLR, 2025.](https://healess.github.io/assets/pdf/[Paper]SSR-AD.pdf)
 * ["Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation", ICLR, 2024.](https://healess.github.io/assets/pdf/[Paper]Sign2GPT.pdf)
 * ["Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models", CVPR, 2024(Highlight).](https://healess.github.io/assets/pdf/[Paper]Monkey.pdf)
 * ["InceptionNeXt: When Inception Meets ConvNeXt", CVPR, 2024.](https://healess.github.io/assets/pdf/[Paper]InceptionNeXt.pdf)

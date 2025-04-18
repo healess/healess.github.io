@@ -114,6 +114,7 @@ entries_layout: grid
 
 ## Slides
 #### Paper Review
+* ["SAMFusion: Sensor-Adaptive Multimodal Fusion for 3D Object Detection in Adverse Weather", ECCV, 2024.](https://healess.github.io/assets/pdf/[Paper]SAMFusion.pdf)
 * ["Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving", ICLR, 2025.](https://healess.github.io/assets/pdf/[Paper]SSR-AD.pdf)
 * ["Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation", ICLR, 2024.](https://healess.github.io/assets/pdf/[Paper]Sign2GPT.pdf)
 * ["Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models", CVPR, 2024(Highlight).](https://healess.github.io/assets/pdf/[Paper]Monkey.pdf)

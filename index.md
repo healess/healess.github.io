@@ -16,7 +16,8 @@ entries_layout: grid
 
 ## Research Experience
 * Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D. Candidate) (2022.09~Present)
-  * MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers, [arXiv](https://arxiv.org/pdf/2411.18995)
+  * Multi-view slot attention using paraphrased texts for face anti-spoofing, International Conference on Computer Vision (ICCV 2025).
+  * MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers, [arXiv](https://arxiv.org/pdf/2411.18995) (Under review).
 * 3D Reconstruction and Recognition (POSTECH CGLab - Prof. Seungyong Lee) (2023.03~2024.07)
 * Efficient Action Recognition (POSTECH CVLab - Prof. Minsu Cho) (2020.03~2022.08)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab - Prof. Daejin Kim) (2019.01~2019.12)

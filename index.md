@@ -11,20 +11,20 @@ entries_layout: grid
 ## Work Experience
 * POSCO DX - AI Research Engineer (2016.06~Present)
 * Pivotal Labs - Agile, TDD, Pair Programing, CI/CD (2016.03~2016.05) [링크](https://healess.github.io/assets/image/pivotal.JPG){:target="_blank"}
-* POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02) [링크](https://smartfuture-poscoict.co.kr/331){:target="_blank"}
+* POSCO ICT - POSCO MES(PM, Developer) (2006.01~2016.02) [링크](https://poscoictblog.tistory.com/331){:target="_blank"}
 * LG CNS - Infra Management (2005.01~2005.02) [링크](https://healess.github.io/assets/image/lgcns.jpg){:target="_blank"}
 
 ## Research Experience
 * Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D. Candidate) (2022.09~Present)
-  * Multi-view slot attention using paraphrased texts for face anti-spoofing, (ICCV 2025).
-  * MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers, (PRL 2025) [링크](https://arxiv.org/pdf/2411.18995){:target="_blank"}
-* 3D Reconstruction and Recognition (POSTECH CGLab - Prof. Seungyong Lee) (2023.03~2024.07)
+  * (First author) Multi-view slot attention using paraphrased texts for face anti-spoofing, (ICCV 2025).
+  * (First author) MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers, (PRL 2025) [링크](https://arxiv.org/pdf/2411.18995){:target="_blank"}
+* 3D Reconstruction and Understanding (POSTECH CGLab - Prof. Seungyong Lee) (2023.03~2024.07)
 * Efficient Action Recognition (POSTECH CVLab - Prof. Minsu Cho) (2020.03~2022.08)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab - Prof. Daejin Kim) (2019.01~2019.12)
 * Predicting Early-Stage Dementia Through Language Model (KAIST AI) [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100009334){:target="_blank"}
 
 ## Projects
-* Spatial Intelligence for Physical AI (3D Vision, Perception, Sencor Fusion, Multimodal learning), NPU (2024~Present)
+* Spatial Intelligence for Physical AI (3D Vision, Perception, Sencor Fusion, Multimodal learning), NPU Inference (2024~Present)
 * Vision AI (2D Vision, Action Recognition, Face Recognition, Model Compression, On device AI, AutoML) (2017~2023)
 * POSCO AI ChatBot (Char CNN/Intent, Bi-LSTM CRF/NER) (2016~2017)
 * KISA Certification (Face Recognition 2018, Intelligence CCTV 2021) [링크](https://smartfuture-poscoict.co.kr/451){:target="_blank"}

@@ -17,7 +17,8 @@ entries_layout: grid
 ## Research Experience
 * Deep Learning, Computer Vision, Model Compression (Yonsei Univ. MLCF Lab - Ph.D. Candidate) (2022.09~Present)
   * (First author) Multi-view slot attention using paraphrased texts for face anti-spoofing, (ICCV 2025). [링크](https://arxiv.org/pdf/2509.06336){:target="_blank"}
-  * (First author) MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers, (PRL 2025) [링크](https://arxiv.org/pdf/2411.18995){:target="_blank"}
+  * [Invited Talk] ICCV 2025 Workshop on Foundation and Generative Models in Biometrics (Oral) [링크](https://foundgen-bio.github.io/iccv2025/)
+  * (First author) MVFormer: Diversifying Feature Normalization and Token Mixing for Efficient Vision Transformers, (Pattern Recognition Letters 2025) [링크](https://arxiv.org/pdf/2411.18995){:target="_blank"}
 * 3D Reconstruction and Understanding (POSTECH CGLab - Prof. Seungyong Lee) (2023.03~2024.07)
 * Efficient Action Recognition (POSTECH CVLab - Prof. Minsu Cho) (2020.03~2022.08)
 * Auxiliary Supervisions for Face Anti-Spoofing (POSTECH IMLab - Prof. Daejin Kim) (2019.01~2019.12)

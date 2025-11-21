@@ -51,6 +51,8 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
+| Physical AI 시대: 우리는 어떻게 성장할 것인가? (한미 첨단분야 청년교류 STEP-UP WEEK) (2025.11) |[링크](){:target="_blank"} |
+| 자율 공장을 위한 산업 AI 트랜드 (K-하이테크 플랫폼 DDD 세미나) (2025.09) |[링크](https://kr.linkedin.com/posts/%EC%9C%A0%ED%98%84-%EC%A0%95-941a732b5_%EC%82%B0%EC%97%85ai-industrialai-%EC%9E%90%EC%9C%A8%EA%B3%B5%EC%9E%A5-activity-7374009145663844352-Dffi){:target="_blank"} |
 | Challenges in industrial AI  (경북대 컴퓨터학부) (2024.10) |[링크](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_4&wr_id=316&sca=){:target="_blank"} |
 | 자율 공장을 위한 산업 AI 트랜드 (대구디지털혁신진흥원) (2024.07) |[링크](https://youtu.be/UpfYMFTlhKE?si=4SFgLPkd_quorpkZ&t=2541){:target="_blank"} |
 | Challenges in industrial AI  (한양대 ERICA ICT융합학부) (2024.04) |[링크](https://healess.github.io/assets/image/ERICA.jpg){:target="_blank"} |
@@ -77,18 +79,22 @@ entries_layout: grid
 | 컴퓨터비전학회 KCCV 2023, 학계·기업 참여 역대 최대(e4ds)|[링크](https://www.e4ds.com/sub_view.asp?ch=31&t=0&idx=17354) |
 | 포스코그룹 AI 전문가 다 모였다…'포스코DX AI 개발자 콘퍼런스' 성료(NEWSIS)|[링크](https://n.news.naver.com/mnews/article/003/0011999475?sid=105) |
 | 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
-| 공장 품질 감시하던 ‘비전 AI’, 억울한 동물 살핀다(서울경제)|[링크](https://n.news.naver.com/mnews/article/011/0004172565?sid=105) |
 | 스마트 통합안전솔루션 관심(연합뉴스)|[링크](https://n.news.naver.com/mnews/article/001/0013515094?sid=105) |
 | [인공지능과 디지털 트윈Ⅰ] 디지털 트윈을 향한 디딤돌, 인공지능 영상 기술(헬로티)|[링크](https://www.hellot.net/news/article.html?no=58170) |
-| 포스코ICT, '2022 AI 유스 챌린지' 시상···과기정통부장관상에 '코뿔소팀'(전자신문)|[링크](https://www.etnews.com/20220825000094) |
 | 포스코ICT, 특성화고 졸업생 대상 AI 전문가 양성 나선다(매일경제)|[링크](https://www.mk.co.kr/news/it/view/2021/06/614789/) |
 | 중고생 AI 대회…“톡톡 튀는 아이디어에 현장 기술을”(KBS) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010888301) |
 | 안면인식 정확도 99.9%… 온라인시험·출퇴근 관리 딱(디지털타임즈) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002605641) |
 |코로나19, 비대면·비접촉으로 이긴다!(KBS)|[링크](https://www.youtube.com/watch?v=sULRv0IwnhQ)|
-| AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
-| 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) |
 | 스마트한 미래를 꿈꾸며 신기술을 찾아 나서는 IT 전문가! 포스코ICT 김수상 님(포스코 뉴스룸) | [링크](https://newsroom.posco.com/kr/사람사람들-24편-스마트한-미래를-꿈꾸며-신기술을-찾/)
 | AI Framework, 공개SW개발자대회서 정보통신진흥원장상 수상 | [링크](https://www.poscodx.com/kor/pr/newsRoomView.do?col=&sw=&page=20&num=4225)
+
+<!-- 
+| 공장 품질 감시하던 ‘비전 AI’, 억울한 동물 살핀다(서울경제)|[링크](https://n.news.naver.com/mnews/article/011/0004172565?sid=105) |
+| 포스코ICT, '2022 AI 유스 챌린지' 시상···과기정통부장관상에 '코뿔소팀'(전자신문)|[링크](https://www.etnews.com/20220825000094) |
+| AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
+| 안면인식 기술 도입, 인권 존중 상태에서 추진돼야 (경북일보) | [링크](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2021629) | 
+-->
+
 
 ## Software Development
 * Deep learning GUI framework for enterprise (TensorMSA) [링크](https://github.com/TensorMSA){:target="_blank"}

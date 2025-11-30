@@ -51,7 +51,7 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
-| Physical AI 시대: 우리는 어떻게 성장할 것인가? (한미 첨단분야 청년교류 STEP-UP WEEK) (2025.11) |[링크](){:target="_blank"} |
+| Physical AI 시대: 우리는 어떻게 성장할 것인가? (한미 첨단분야 청년교류 STEP-UP WEEK) (2025.11) |[링크](https://www.viva100.com/article/20251123500162){:target="_blank"} |
 | 자율 공장을 위한 산업 AI 트랜드 (K-하이테크 플랫폼 DDD 세미나) (2025.09) |[링크](https://kr.linkedin.com/posts/%EC%9C%A0%ED%98%84-%EC%A0%95-941a732b5_%EC%82%B0%EC%97%85ai-industrialai-%EC%9E%90%EC%9C%A8%EA%B3%B5%EC%9E%A5-activity-7374009145663844352-Dffi){:target="_blank"} |
 | Challenges in industrial AI  (경북대 컴퓨터학부) (2024.10) |[링크](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_4&wr_id=316&sca=){:target="_blank"} |
 | 자율 공장을 위한 산업 AI 트랜드 (대구디지털혁신진흥원) (2024.07) |[링크](https://youtu.be/UpfYMFTlhKE?si=4SFgLPkd_quorpkZ&t=2541){:target="_blank"} |
@@ -70,14 +70,11 @@ entries_layout: grid
 
 | Title | URL |
 | :------------ | ------------: |
-| 포스코DX, 산업현장에 특화된 ‘피지컬 AI’ 현장 적용 추진(헤럴드경제)|[링크](https://naver.me/5ZJZv721) |
+| AI 기반 기술로 산업 혁신을 꿈꾸다! 포스코DX 김수상 님(포스코그룹 뉴스룸)|[링크](https://newsroom.posco.com/kr/%EC%82%AC%EB%9E%8C%EC%82%AC%EB%9E%8C%EB%93%A4-ai-%EA%B8%B0%EB%B0%98-%EA%B8%B0%EC%88%A0%EB%A1%9C-%EC%82%B0%EC%97%85-%ED%98%81%EC%8B%A0%EC%9D%84-%EA%BF%88%EA%BE%B8%EB%8B%A4-%ED%8F%AC%EC%8A%A4/) |
 | 포스코DX, 2024 스마트공장·자동화 산업전 참가(머니투데이)|[링크](https://n.news.naver.com/mnews/article/008/0005017662?sid=105) |
 | 포스코DX, AI자율시스템 개발...본격 사업화(한국경제TV뉴스)|[링크](https://youtu.be/X9yZdejoZwo?si=nGC0grP1pu3jJyEm) |
 | 포스코DX '산업용 AI 미디어' 개최···"Industrial AI 전문 기업으로 성장 할 것"(뉴스웨이)|[링크](https://www.newsway.co.kr/news/view?ud=2024030612023093659) |
-| 포스코DX, 한진 대전 메가허브에 AI 활용한 물류자동화 시스템 구축(서울경제)|[링크](https://n.news.naver.com/article/011/0004301976?sid=105) |
-| 국립공원 '야생동물 로드킬' 예방 시스템 도입(KTV국민방송)|[링크](https://www.ktv.go.kr/content/view?content_id=688247) |
 | 컴퓨터비전학회 KCCV 2023, 학계·기업 참여 역대 최대(e4ds)|[링크](https://www.e4ds.com/sub_view.asp?ch=31&t=0&idx=17354) |
-| 포스코그룹 AI 전문가 다 모였다…'포스코DX AI 개발자 콘퍼런스' 성료(NEWSIS)|[링크](https://n.news.naver.com/mnews/article/003/0011999475?sid=105) |
 | 딥엑스-포스코DX, AI 반도체 기반 공장 자동화 솔루션 개발 협력(조선비즈)|[링크](https://n.news.naver.com/mnews/article/366/0000891836?sid=105) |
 | 스마트 통합안전솔루션 관심(연합뉴스)|[링크](https://n.news.naver.com/mnews/article/001/0013515094?sid=105) |
 | [인공지능과 디지털 트윈Ⅰ] 디지털 트윈을 향한 디딤돌, 인공지능 영상 기술(헬로티)|[링크](https://www.hellot.net/news/article.html?no=58170) |
@@ -85,10 +82,14 @@ entries_layout: grid
 | 중고생 AI 대회…“톡톡 튀는 아이디어에 현장 기술을”(KBS) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010888301) |
 | 안면인식 정확도 99.9%… 온라인시험·출퇴근 관리 딱(디지털타임즈) | [링크](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=029&aid=0002605641) |
 |코로나19, 비대면·비접촉으로 이긴다!(KBS)|[링크](https://www.youtube.com/watch?v=sULRv0IwnhQ)|
-| 스마트한 미래를 꿈꾸며 신기술을 찾아 나서는 IT 전문가! 포스코ICT 김수상 님(포스코 뉴스룸) | [링크](https://newsroom.posco.com/kr/사람사람들-24편-스마트한-미래를-꿈꾸며-신기술을-찾/)
+| 스마트한 미래를 꿈꾸며 신기술을 찾아 나서는 IT 전문가! 포스코ICT 김수상 님(포스코그룹 뉴스룸) | [링크](https://newsroom.posco.com/kr/사람사람들-24편-스마트한-미래를-꿈꾸며-신기술을-찾/)
 | AI Framework, 공개SW개발자대회서 정보통신진흥원장상 수상 | [링크](https://www.poscodx.com/kor/pr/newsRoomView.do?col=&sw=&page=20&num=4225)
 
 <!-- 
+| 포스코DX, 산업현장에 특화된 ‘피지컬 AI’ 현장 적용 추진(헤럴드경제)|[링크](https://naver.me/5ZJZv721) |
+| 포스코DX, 한진 대전 메가허브에 AI 활용한 물류자동화 시스템 구축(서울경제)|[링크](https://n.news.naver.com/article/011/0004301976?sid=105) |
+| 국립공원 '야생동물 로드킬' 예방 시스템 도입(KTV국민방송)|[링크](https://www.ktv.go.kr/content/view?content_id=688247) |
+| 포스코그룹 AI 전문가 다 모였다…'포스코DX AI 개발자 콘퍼런스' 성료(NEWSIS)|[링크](https://n.news.naver.com/mnews/article/003/0011999475?sid=105) |
 | 공장 품질 감시하던 ‘비전 AI’, 억울한 동물 살핀다(서울경제)|[링크](https://n.news.naver.com/mnews/article/011/0004172565?sid=105) |
 | 포스코ICT, '2022 AI 유스 챌린지' 시상···과기정통부장관상에 '코뿔소팀'(전자신문)|[링크](https://www.etnews.com/20220825000094) |
 | AI 도입, 목표 설정이 먼저다 (한국경제) | [링크](https://www.hankyung.com/opinion/article/2019112491371) |
